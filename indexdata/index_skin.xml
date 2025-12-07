@@ -1,0 +1,4556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano version="1.17">
+
+    
+  <!-- Spot Style - Default Point Spot Style 1 -->
+  <style name="IconDefaultPointSpotStyle1"
+         url="%FIRSTXML%/spots/whatsapp_image_2025-10-09_at_11_user_defaultpoint0.png"
+         visible="false"
+         onhover="onhoverIconDefaultPointSpotStyle1"
+         onout="onoutIconDefaultPointSpotStyle1"
+         height="100"
+         width="150"
+         />
+  <action name="onhoverIconDefaultPointSpotStyle1">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle1">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - роз заяц (биба) -->
+  <style name="Iconроззаяц_биба_"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint1.png"
+         visible="false"
+         onhover="onhoverIconроззаяц_биба_"
+         onout="onoutIconроззаяц_биба_"
+         height="100"
+         width="90"
+         />
+  <action name="onhoverIconроззаяц_биба_">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconроззаяц_биба_">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - Default Point Spot Style 5 -->
+  <style name="IconDefaultPointSpotStyle5"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint4.png"
+         visible="false"
+         onhover="onhoverIconDefaultPointSpotStyle5"
+         onout="onoutIconDefaultPointSpotStyle5"
+         height="100"
+         width="80"
+         />
+  <action name="onhoverIconDefaultPointSpotStyle5">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle5">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - кук дом -->
+  <style name="Iconкукдом"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint5.png"
+         visible="false"
+         onhover="onhoverIconкукдом"
+         onout="onoutIconкукдом"
+         height="100"
+         width="85"
+         />
+  <action name="onhoverIconкукдом">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconкукдом">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - минимаркет -->
+  <style name="Iconминимаркет"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint6.png"
+         visible="false"
+         onhover="onhoverIconминимаркет"
+         onout="onoutIconминимаркет"
+         height="100"
+         width="97"
+         />
+  <action name="onhoverIconминимаркет">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconминимаркет">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - Default Point Spot Style 8 -->
+  <style name="IconDefaultPointSpotStyle8"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint7.png"
+         visible="false"
+         onhover="onhoverIconDefaultPointSpotStyle8"
+         onout="onoutIconDefaultPointSpotStyle8"
+         height="100"
+         width="95"
+         />
+  <action name="onhoverIconDefaultPointSpotStyle8">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle8">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - биба и боба -->
+  <style name="Iconбибаибоба"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint8.png"
+         visible="false"
+         onhover="onhoverIconбибаибоба"
+         onout="onoutIconбибаибоба"
+         height="100"
+         width="80"
+         />
+  <action name="onhoverIconбибаибоба">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconбибаибоба">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - палатка -->
+  <style name="Iconпалатка"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint9.png"
+         visible="false"
+         onhover="onhoverIconпалатка"
+         onout="onoutIconпалатка"
+         height="95"
+         width="105"
+         />
+  <action name="onhoverIconпалатка">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconпалатка">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - лего стройка -->
+  <style name="Iconлегостройка"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint10.png"
+         visible="false"
+         onhover="onhoverIconлегостройка"
+         onout="onoutIconлегостройка"
+         height="100"
+         width="85"
+         />
+  <action name="onhoverIconлегостройка">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconлегостройка">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - озеро в лесу -->
+  <style name="Iconозеровлесу"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint11.png"
+         visible="false"
+         onhover="onhoverIconозеровлесу"
+         onout="onoutIconозеровлесу"
+         height="99"
+         width="85"
+         />
+  <action name="onhoverIconозеровлесу">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconозеровлесу">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - гараж -->
+  <style name="Iconгараж"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint12.png"
+         visible="false"
+         onhover="onhoverIconгараж"
+         onout="onoutIconгараж"
+         height="100"
+         width="90"
+         />
+  <action name="onhoverIconгараж">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconгараж">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - аутомат -->
+  <style name="Iconаутомат"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint13.png"
+         visible="false"
+         onhover="onhoverIconаутомат"
+         onout="onoutIconаутомат"
+         height="100"
+         width="80"
+         />
+  <action name="onhoverIconаутомат">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconаутомат">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - стол с игрулями -->
+  <style name="Iconстолсигрулями"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint14.png"
+         visible="false"
+         onhover="onhoverIconстолсигрулями"
+         onout="onoutIconстолсигрулями"
+         height="100"
+         width="95"
+         />
+  <action name="onhoverIconстолсигрулями">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconстолсигрулями">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - псина -->
+  <style name="Iconпсина"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint15.png"
+         visible="false"
+         onhover="onhoverIconпсина"
+         onout="onoutIconпсина"
+         height="85"
+         width="100"
+         />
+  <action name="onhoverIconпсина">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconпсина">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - столик -->
+  <style name="Iconстолик"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint16.png"
+         visible="false"
+         onhover="onhoverIconстолик"
+         onout="onoutIconстолик"
+         height="100"
+         width="90"
+         />
+  <action name="onhoverIconстолик">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconстолик">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - трон -->
+  <style name="Iconтрон"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint17.png"
+         visible="false"
+         onhover="onhoverIconтрон"
+         onout="onoutIconтрон"
+         height="100"
+         width="90"
+         />
+  <action name="onhoverIconтрон">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconтрон">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - полутрон -->
+  <style name="Iconполутрон"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint18.png"
+         visible="false"
+         onhover="onhoverIconполутрон"
+         onout="onoutIconполутрон"
+         height="107"
+         width="85"
+         />
+  <action name="onhoverIconполутрон">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconполутрон">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - диванные кухни -->
+  <style name="Iconдиванныекухни"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint19.png"
+         visible="false"
+         onhover="onhoverIconдиванныекухни"
+         onout="onoutIconдиванныекухни"
+         height="100"
+         width="94"
+         />
+  <action name="onhoverIconдиванныекухни">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconдиванныекухни">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - столикик кухни -->
+  <style name="Iconстоликиккухни"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint20.png"
+         visible="false"
+         onhover="onhoverIconстоликиккухни"
+         onout="onoutIconстоликиккухни"
+         height="100"
+         width="90"
+         />
+  <action name="onhoverIconстоликиккухни">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconстоликиккухни">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - куллера -->
+  <style name="Iconкуллера"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint21.png"
+         visible="false"
+         onhover="onhoverIconкуллера"
+         onout="onoutIconкуллера"
+         height="100"
+         width="90"
+         />
+  <action name="onhoverIconкуллера">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconкуллера">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - синий гамак -->
+  <style name="Iconсинийгамак"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint22.png"
+         visible="false"
+         onhover="onhoverIconсинийгамак"
+         onout="onoutIconсинийгамак"
+         height="100"
+         width="97"
+         />
+  <action name="onhoverIconсинийгамак">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconсинийгамак">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - хоккей -->
+  <style name="Iconхоккей"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint23.png"
+         visible="false"
+         onhover="onhoverIconхоккей"
+         onout="onoutIconхоккей"
+         height="95"
+         width="100"
+         />
+  <action name="onhoverIconхоккей">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconхоккей">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - рисувашки -->
+  <style name="Iconрисувашки"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint24.png"
+         visible="false"
+         onhover="onhoverIconрисувашки"
+         onout="onoutIconрисувашки"
+         height="95"
+         width="100"
+         />
+  <action name="onhoverIconрисувашки">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconрисувашки">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - качеля -->
+  <style name="Iconкачеля"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint25.png"
+         visible="false"
+         onhover="onhoverIconкачеля"
+         onout="onoutIconкачеля"
+         height="100"
+         width="93"
+         />
+  <action name="onhoverIconкачеля">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconкачеля">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - горка -->
+  <style name="Iconгорка"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint26.png"
+         visible="false"
+         onhover="onhoverIconгорка"
+         onout="onoutIconгорка"
+         height="100"
+         width="90"
+         />
+  <action name="onhoverIconгорка">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconгорка">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - качеля 2 -->
+  <style name="Iconкачеля2"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint2.png"
+         visible="false"
+         onhover="onhoverIconкачеля2"
+         onout="onoutIconкачеля2"
+         height="100"
+         width="93"
+         />
+  <action name="onhoverIconкачеля2">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconкачеля2">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - хоккей 2 -->
+  <style name="Iconхоккей2"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint27.png"
+         visible="false"
+         onhover="onhoverIconхоккей2"
+         onout="onoutIconхоккей2"
+         height="95"
+         width="100"
+         />
+  <action name="onhoverIconхоккей2">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconхоккей2">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - горка 2  -->
+  <style name="Iconгорка2"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint28.png"
+         visible="false"
+         onhover="onhoverIconгорка2"
+         onout="onoutIconгорка2"
+         height="100"
+         width="90"
+         />
+  <action name="onhoverIconгорка2">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconгорка2">
+    hideTooltip();
+
+
+
+  </action>
+
+    
+  <!-- Spot Style - рисувашки 2 -->
+  <style name="Iconрисувашки2"
+         url="%FIRSTXML%/spots/pngwing_user_defaultpoint29.png"
+         visible="false"
+         onhover="onhoverIconрисувашки2"
+         onout="onoutIconрисувашки2"
+         height="95"
+         width="100"
+         />
+  <action name="onhoverIconрисувашки2">
+    showtooltip(hotspot);
+  </action>
+  <action name="onoutIconрисувашки2">
+    hideTooltip();
+
+
+
+  </action>
+
+	<!-- ***************************** -->
+	<!-- Docked Thumbnails Control Bar -->
+	<!-- ***************************** -->
+
+
+
+<krpano themeunanimebarbuilt="false" themeunanimeIsOpened="false" themeunanimeThumbnailsPos="0" />
+
+<events name="themeunanimebarevents" 
+	onxmlcomplete="themeunanimebuildMenuBar();"
+	onresize="themeunanimeOnResize();"
+	keep="true"/>
+
+<action name="themeunanimebuildMenuBar">
+	ifnot (themeunanimebarbuilt, themeunanimebuildMenu(); set(themeunanimebarbuilt, true););
+</action>
+
+
+	<!-- ********************* -->
+	<!-- Docked Thumbnails Bar -->
+	<!-- ********************* -->
+
+
+
+
+
+
+<layer name="thumbnailsBar-controlBar_dockedThumbnails" 
+	keep="true" 
+	type="container" 
+	visible="false"
+	parent="themeunanime_bg" 
+	align="bottomleft"
+	
+	width="100%"
+	height="50" 
+	
+	x="0"
+	y="0"
+	zorder="1"
+/>
+
+
+<layer name="thumbnailBorderSource-controlBar_dockedThumbnails"
+	keep="true"
+	visible="false"
+	onloaded="loadedImages-controlBar_dockedThumbnails(border);"
+	url="%FIRSTXML%/graphics/dockedthumbscontrolbar/thumbnails_states.png" 
+	offsetX="5"
+	offsetY="5"
+	quarterHeight="0"
+/>
+
+
+	
+	<style name="scrollButtonsBgStyle-controlBar_dockedThumbnails"
+		keep="true"
+		parent="thumbnailsBar-controlBar_dockedThumbnails"
+		alpha="0.3"
+		zorder="1"
+	/>
+	<layer name="scrollPrevArrowBg-controlBar_dockedThumbnails" 
+		style="scrollButtonsBgStyle-controlBar_dockedThumbnails" 
+		url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_scroll_left_bg.png" 
+		visible="false" 
+			align="left" 
+	/>
+	<layer name="scrollNextArrowBg-controlBar_dockedThumbnails" 
+		style="scrollButtonsBgStyle-controlBar_dockedThumbnails" 
+		url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_scroll_right_bg.png" 
+		visible="false" 
+			align="right" 
+	/>
+
+	<krpano arrow1Loaded-controlBar_dockedThumbnails="false" arrow2Loaded-controlBar_dockedThumbnails="false" borderLoaded-controlBar_dockedThumbnails="false" thumbnailsLoadedCounter-controlBar_dockedThumbnails="0" thumbsCount-controlBar_dockedThumbnails="0" thumbsCounter-controlBar_dockedThumbnails="0" firstInit-controlBar_dockedThumbnails="false" />
+	
+	
+	<events name="thumbnailsScrollEvents-controlBar_dockedThumbnails" 
+		keep="true" 
+		
+		onxmlcomplete="ifnot(startResize-controlBar_dockedThumbnails,set(isLoaded-controlBar_dockedThumbnails, true);if(isStarted-controlBar_dockedThumbnails,onLoadCompleteHandler-controlBar_dockedThumbnails();););"
+		onTourStart="set(isStarted-controlBar_dockedThumbnails, true);if(isLoaded-controlBar_dockedThumbnails,onLoadCompleteHandler-controlBar_dockedThumbnails(););"
+		onnewpano="if(startResize-controlBar_dockedThumbnails,if(firstInit-controlBar_dockedThumbnails,onLoadCompleteHandler-controlBar_dockedThumbnails();););"
+		onresize="onResizeHandler-controlBar_dockedThumbnails();"
+		onenterfullscreen="delayedcall(0.2,scrollToCurrentThumb-controlBar_dockedThumbnails(););"
+		onexitfullscreen="delayedcall(0.2,scrollToCurrentThumb-controlBar_dockedThumbnails(););"
+	/>
+	
+	
+	<layer name="scrollAreaContainer-controlBar_dockedThumbnails" 
+		keep="true"
+		type="container" 
+		align="topleft"
+		x="10"
+		y="5"
+		
+		marginX="10"
+		marginY="5"
+		
+		width="0" 
+		height="0"
+		
+		scrollSpeedInit="10"
+		scrollSpeed="10"
+		scrollSpeedMax="70"
+		scrollSpeedAcceleration="20"
+		
+		parent="thumbnailsBar-controlBar_dockedThumbnails"
+		
+		thumbWidth="0"
+		thumbHeight="0"
+		
+		itemWidth="80"
+		itemHeight="40"
+		
+		offsetX="0"
+		offsetY="0"
+		
+		thumbSpacer="10"
+		currentThumbsCount="0"
+		
+		adjustToContent="0"
+		
+		zorder="1"
+		visible="false"
+		ready="false"
+	>
+	
+		
+		<layer name="thumbsScrollArea-controlBar_dockedThumbnails" 
+			url="%FIRSTXML%/graphics/scrollarea.swf" 
+			alturl="%FIRSTXML%/graphics/scrollarea.js" 
+			align="bottomleft"
+			onhover_autoscrolling="false"
+			
+			x="0"
+			y="0"
+			 
+				direction="h" 
+		/>
+	
+	</layer>
+	
+	
+	
+	<layer name="scrollPrevArrow-controlBar_dockedThumbnails" 
+		keep="true"
+		type="image"
+		visible="false"
+		parent="thumbnailsBar-controlBar_dockedThumbnails"
+		targetHeight="0"
+		tagertWidth="0"
+		zorder="2"
+		onloaded="loadedImages-controlBar_dockedThumbnails(arrow1);"
+			url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_scroll_left.png"
+			align="left"
+	/>
+	
+	
+	
+	<layer name="scrollNextArrow-controlBar_dockedThumbnails" 
+		keep="true"
+		type="image"
+		visible="false"
+		parent="thumbnailsBar-controlBar_dockedThumbnails"
+		targetHeight="0"
+		targetWidth="0"
+		zorder="2"
+		onloaded="loadedImages-controlBar_dockedThumbnails(arrow2);"
+			url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_scroll_right.png"
+			align="right"
+	/>
+	
+	<action name="loadedImages-controlBar_dockedThumbnails">
+		if(%1 == "arrow1",
+			set(arrow1Loaded-controlBar_dockedThumbnails, true);
+		);
+		if(%1 == "arrow2",
+			set(arrow2Loaded-controlBar_dockedThumbnails, true);
+		);
+		if(%1 == "border",
+			if(layer[thumbnailBorderSource-controlBar_dockedThumbnails].url,
+				set(borderLoaded-controlBar_dockedThumbnails, true);
+			);
+		);
+		if(%1 == "thumbnail",
+			inc(thumbnailsLoadedCounter-controlBar_dockedThumbnails);
+		);
+	</action>
+	
+	<action name="onLoadCompleteHandler-controlBar_dockedThumbnails">
+		
+		set(thumbsCount-controlBar_dockedThumbnails, 0);
+		
+		
+		set(thumbsCount-controlBar_dockedThumbnails, get(scene.count));
+		
+		
+		
+		
+		
+		loadThumbs-controlBar_dockedThumbnails();
+		
+		if(firstInit-controlBar_dockedThumbnails,
+			onLoadCompleteHandlerPartThree-controlBar_dockedThumbnails();
+		,
+			onLoadCompleteHandlerPartTwo-controlBar_dockedThumbnails();
+		);
+	</action>
+	
+	<action name="onLoadCompleteHandlerPartTwo-controlBar_dockedThumbnails">
+		set(imgCounter-controlBar_dockedThumbnails, 3);
+		
+		if(arrow1Loaded-controlBar_dockedThumbnails,
+			dec(imgCounter-controlBar_dockedThumbnails);
+		);
+		if(arrow2Loaded-controlBar_dockedThumbnails,
+			dec(imgCounter-controlBar_dockedThumbnails);
+		);
+		if(thumbsCount-controlBar_dockedThumbnails == thumbnailsLoadedCounter-controlBar_dockedThumbnails,
+			dec(imgCounter-controlBar_dockedThumbnails);
+		);
+		
+		if(imgCounter-controlBar_dockedThumbnails LE 0,
+			stopdelayedcall(delayedCallOnLoadComplete-controlBar_dockedThumbnails);
+			onLoadCompleteHandlerPartThree-controlBar_dockedThumbnails();
+		,
+			delayedcall(delayedCallOnLoadComplete-controlBar_dockedThumbnails, 0.2, onLoadCompleteHandlerPartTwo-controlBar_dockedThumbnails());
+		);
+	</action>
+	
+	<action name="onLoadCompleteHandlerPartThree-controlBar_dockedThumbnails">
+		resetMouseBehavior-controlBar_dockedThumbnails();
+		highlightCurrentThumb-controlBar_dockedThumbnails();
+		
+		
+		if(layer[scrollAreaContainer-controlBar_dockedThumbnails].adjustToContent,
+			mul(adjustWidth-controlBar_dockedThumbnails, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].marginX), 2);
+			add(adjustWidth-controlBar_dockedThumbnails, get(layer[thumbsScrollArea-controlBar_dockedThumbnails].width));
+			mul(adjustHeight-controlBar_dockedThumbnails, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].marginY), 2);
+			add(adjustHeight-controlBar_dockedThumbnails, get(layer[thumbsScrollArea-controlBar_dockedThumbnails].height));
+			
+			
+			if(adjustWidth-controlBar_dockedThumbnails GT stagewidth,
+				set(adjustWidth-controlBar_dockedThumbnails, get(stagewidth));
+				set(layer[scrollAreaContainer-controlBar_dockedThumbnails].adjustToContent, false);
+			,
+				if(adjustHeight-controlBar_dockedThumbnails GT stageheight,
+					set(adjustHeight-controlBar_dockedThumbnails, get(stageheight));
+					set(layer[scrollAreaContainer-controlBar_dockedThumbnails].adjustToContent, false);
+				);
+			);
+			
+			setSize-controlBar_dockedThumbnails(get(adjustWidth-controlBar_dockedThumbnails), get(adjustHeight-controlBar_dockedThumbnails));
+		);
+		
+			initArrows-controlBar_dockedThumbnails();
+		setupArrows-controlBar_dockedThumbnails(true);
+		
+		
+		if (thumbsCounter-controlBar_dockedThumbnails LE 0,
+			set(layer[thumbnailsBar-controlBar_dockedThumbnails].visible, false);
+		);
+		
+		
+		set(startResize-controlBar_dockedThumbnails, true);
+		set(firstInit-controlBar_dockedThumbnails, true);
+	</action>
+	
+	
+	<action name="onResizeHandler-controlBar_dockedThumbnails">
+		
+		delayedcall(0.1, onResizeCallback-controlBar_dockedThumbnails(false); );
+	</action>
+	
+	
+	<action name="onResizeCallback-controlBar_dockedThumbnails">
+		if(startResize-controlBar_dockedThumbnails,
+			setSize-controlBar_dockedThumbnails(get(layer[scrollAreaContainer-controlBar_dockedThumbnails].targetWidth), get(layer[scrollAreaContainer-controlBar_dockedThumbnails].targetHeight));
+			setupArrows-controlBar_dockedThumbnails(%1);
+			
+			
+			if (thumbsCounter-controlBar_dockedThumbnails LE 0,
+				set(layer[thumbnailsBar-controlBar_dockedThumbnails].visible, false);
+			);
+		);
+	</action>
+	
+	
+	
+	
+	
+	
+	<action name="thumbnailBorderDrawInit-controlBar_dockedThumbnails">
+		
+		set(layer[scrollAreaContainer-controlBar_dockedThumbnails].offsetX, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].borderWidth));
+		set(layer[scrollAreaContainer-controlBar_dockedThumbnails].offsetY, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].borderWidth));
+		
+		
+		mul(totalOffsetX-controlBar_dockedThumbnails, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].borderWidth), 2);
+		mul(totalOffsetY-controlBar_dockedThumbnails, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].borderWidth), 2);
+		
+		
+		if(startResize-controlBar_dockedThumbnails,
+			sub(layer[scrollAreaContainer-controlBar_dockedThumbnails].itemWidth, get(totalOffsetX-controlBar_dockedThumbnails));
+			sub(layer[scrollAreaContainer-controlBar_dockedThumbnails].itemHeight, get(totalOffsetY-controlBar_dockedThumbnails));
+		);
+		
+		
+		set(layer[scrollAreaContainer-controlBar_dockedThumbnails].thumbWidth, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].itemWidth));
+		set(layer[scrollAreaContainer-controlBar_dockedThumbnails].thumbHeight, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].itemHeight));
+		
+		add(layer[scrollAreaContainer-controlBar_dockedThumbnails].itemWidth, get(totalOffsetX-controlBar_dockedThumbnails));
+		add(layer[scrollAreaContainer-controlBar_dockedThumbnails].itemHeight, get(totalOffsetY-controlBar_dockedThumbnails));
+	</action>
+		
+	
+	<action name="thumbnailBorderImageInit-controlBar_dockedThumbnails">
+		
+		set(layer[scrollAreaContainer-controlBar_dockedThumbnails].offsetX, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].offsetX));
+		set(layer[scrollAreaContainer-controlBar_dockedThumbnails].offsetY, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].offsetY));
+		
+		
+		mul(totalOffsetX-controlBar_dockedThumbnails, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].offsetX), 2);
+		mul(totalOffsetY-controlBar_dockedThumbnails, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].offsetY), 2);
+		
+		
+		if(startResize-controlBar_dockedThumbnails,
+			sub(layer[scrollAreaContainer-controlBar_dockedThumbnails].itemWidth, get(totalOffsetX-controlBar_dockedThumbnails));
+			sub(layer[scrollAreaContainer-controlBar_dockedThumbnails].itemHeight, get(totalOffsetY-controlBar_dockedThumbnails));
+		);
+		
+		
+		set(layer[scrollAreaContainer-controlBar_dockedThumbnails].thumbWidth, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].itemWidth));
+		set(layer[scrollAreaContainer-controlBar_dockedThumbnails].thumbHeight, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].itemHeight));
+		
+		add(layer[scrollAreaContainer-controlBar_dockedThumbnails].itemWidth, get(totalOffsetX-controlBar_dockedThumbnails));
+		add(layer[scrollAreaContainer-controlBar_dockedThumbnails].itemHeight, get(totalOffsetY-controlBar_dockedThumbnails));
+		
+		
+		div(layer[thumbnailBorderSource-controlBar_dockedThumbnails].quarterHeight, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].height), 4);
+		
+		
+		set(cropX-controlBar_dockedThumbnails, 0);
+		set(cropY-controlBar_dockedThumbnails, 0);
+		set(cropW-controlBar_dockedThumbnails, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].width));
+		set(cropH-controlBar_dockedThumbnails, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].quarterHeight));
+		txtadd(layer[thumbnailBorderSource-controlBar_dockedThumbnails].cropDefault, get(cropX-controlBar_dockedThumbnails), '|', get(cropY-controlBar_dockedThumbnails), '|', get(cropW-controlBar_dockedThumbnails), '|', get(cropH-controlBar_dockedThumbnails));
+
+		
+		add(cropY-controlBar_dockedThumbnails, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].quarterHeight));
+		txtadd(layer[thumbnailBorderSource-controlBar_dockedThumbnails].cropHover, get(cropX-controlBar_dockedThumbnails), '|', get(cropY-controlBar_dockedThumbnails), '|', get(cropW-controlBar_dockedThumbnails), '|', get(cropH-controlBar_dockedThumbnails));
+		
+		
+		add(cropY-controlBar_dockedThumbnails, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].quarterHeight));
+		txtadd(layer[thumbnailBorderSource-controlBar_dockedThumbnails].cropSelected, get(cropX-controlBar_dockedThumbnails), '|', get(cropY-controlBar_dockedThumbnails), '|', get(cropW-controlBar_dockedThumbnails), '|', get(cropH-controlBar_dockedThumbnails));
+		
+		
+		add(cropY-controlBar_dockedThumbnails, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].quarterHeight));
+		txtadd(layer[thumbnailBorderSource-controlBar_dockedThumbnails].cropVisited, get(cropX-controlBar_dockedThumbnails), '|', get(cropY-controlBar_dockedThumbnails), '|', get(cropW-controlBar_dockedThumbnails), '|', get(cropH-controlBar_dockedThumbnails));
+		
+		
+		set(scaleX-controlBar_dockedThumbnails, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].offsetX));
+		set(scaleY-controlBar_dockedThumbnails, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].offsetY));
+		sub(scaleW-controlBar_dockedThumbnails, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].width), get(totalOffsetX-controlBar_dockedThumbnails));
+		sub(scaleH-controlBar_dockedThumbnails, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].quarterHeight), get(totalOffsetY-controlBar_dockedThumbnails));
+		txtadd(layer[thumbnailBorderSource-controlBar_dockedThumbnails].scale9grid, get(scaleX-controlBar_dockedThumbnails), '|', get(scaleY-controlBar_dockedThumbnails), '|', get(scaleW-controlBar_dockedThumbnails), '|', get(scaleH-controlBar_dockedThumbnails));
+	</action>
+	
+	
+	<action name="loadThumbs-controlBar_dockedThumbnails">
+		
+		
+
+		loadThumbsPartTwo-controlBar_dockedThumbnails();
+	</action>
+	
+	<action name="loadThumbsPartTwo-controlBar_dockedThumbnails">
+		if(layer[thumbnailBorderSource-controlBar_dockedThumbnails].url,
+			set(imgCounter-controlBar_dockedThumbnails, 1);
+		,
+			set(imgCounter-controlBar_dockedThumbnails, 0);
+		);
+		
+		if(layer[thumbnailBorderSource-controlBar_dockedThumbnails].url,
+			if(borderLoaded-controlBar_dockedThumbnails,
+				dec(imgCounter-controlBar_dockedThumbnails);
+			);
+		);
+		
+		if(imgCounter-controlBar_dockedThumbnails LE 0,
+			stopdelayedcall(delayedCallOnLoadCompleteBorder-controlBar_dockedThumbnails);
+			loadThumbsPartThree-controlBar_dockedThumbnails();
+		,
+			delayedcall(delayedCallOnLoadCompleteBorder-controlBar_dockedThumbnails, 0.2, loadThumbsPartTwo-controlBar_dockedThumbnails());
+		);
+	</action>
+	
+	<action name="loadThumbsPartThree-controlBar_dockedThumbnails">
+		ifnot(layer[scrollAreaContainer-controlBar_dockedThumbnails].ready,
+			
+			
+			if(layer[thumbnailBorderSource-controlBar_dockedThumbnails].url,
+				thumbnailBorderImageInit-controlBar_dockedThumbnails();
+			,
+				thumbnailBorderDrawInit-controlBar_dockedThumbnails();
+			);
+			
+			
+			set(thumbsCounter-controlBar_dockedThumbnails, 0);
+			
+			
+			set(i-controlBar_dockedThumbnails-wait,25);
+			
+			
+				for( set(i-controlBar_dockedThumbnails, 0), i-controlBar_dockedThumbnails LT scene.count, inc(i-controlBar_dockedThumbnails),
+					if(i-controlBar_dockedThumbnails-wait == i-controlBar_dockedThumbnails,
+						add(i-controlBar_dockedThumbnails-wait,25);
+						wait(0);
+					);
+					createThumb-controlBar_dockedThumbnails(get(scene[get(i-controlBar_dockedThumbnails)].name), get(scene[get(i-controlBar_dockedThumbnails)].thumburl), get(i-controlBar_dockedThumbnails), get(scene[get(i-controlBar_dockedThumbnails)].titleid));
+					inc(thumbsCounter-controlBar_dockedThumbnails);
+				);
+			
+			
+			
+			
+			
+			
+			set(layer[scrollAreaContainer-controlBar_dockedThumbnails].currentThumbsCount, get(thumbsCounter-controlBar_dockedThumbnails));
+			
+			
+			setSize-controlBar_dockedThumbnails(get(layer[get(layer[scrollAreaContainer-controlBar_dockedThumbnails].parent)].width), get(layer[get(layer[scrollAreaContainer-controlBar_dockedThumbnails].parent)].height));
+			
+			
+			set(layer[scrollAreaContainer-controlBar_dockedThumbnails].visible, true);
+			
+			
+					set(layer[thumbnailsBar-controlBar_dockedThumbnails].visible, true);
+			
+			
+			set(layer[scrollAreaContainer-controlBar_dockedThumbnails].ready, true);
+		);
+	</action>
+	
+	
+	<action name="setSize-controlBar_dockedThumbnails">
+		
+		
+		set(layer[scrollAreaContainer-controlBar_dockedThumbnails].targetWidth, %1);
+		set(layer[scrollAreaContainer-controlBar_dockedThumbnails].targetHeight, %2);
+		
+		
+		set(layer[get(layer[scrollAreaContainer-controlBar_dockedThumbnails].parent)].width, %1);
+		set(layer[get(layer[scrollAreaContainer-controlBar_dockedThumbnails].parent)].height, %2);
+		layer[get(layer[scrollAreaContainer-controlBar_dockedThumbnails].parent)].updatepos();
+		
+		
+		mul(totalMarginX-controlBar_dockedThumbnails, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].x), 2);
+		mul(totalMarginY-controlBar_dockedThumbnails, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].y), 2);
+		
+			add(totalPluginHeight-controlBar_dockedThumbnails, get(totalMarginY-controlBar_dockedThumbnails), get(layer[scrollAreaContainer-controlBar_dockedThumbnails].itemHeight));
+			
+			
+			
+			if(layer[get(layer[scrollAreaContainer-controlBar_dockedThumbnails].parent)].pixelheight LT totalPluginHeight-controlBar_dockedThumbnails,
+				set(layer[get(layer[scrollAreaContainer-controlBar_dockedThumbnails].parent)].height, get(totalPluginHeight-controlBar_dockedThumbnails));
+			);
+		
+		layer[get(layer[scrollAreaContainer-controlBar_dockedThumbnails].parent)].updatepos();
+		
+		
+		sub(containerWidth-controlBar_dockedThumbnails, get(layer[get(layer[scrollAreaContainer-controlBar_dockedThumbnails].parent)].pixelwidth), get(totalMarginX-controlBar_dockedThumbnails));
+		sub(containerHeight-controlBar_dockedThumbnails, get(layer[get(layer[scrollAreaContainer-controlBar_dockedThumbnails].parent)].pixelheight), get(totalMarginY-controlBar_dockedThumbnails));
+
+		
+		set(layer[scrollAreaContainer-controlBar_dockedThumbnails].width, get(containerWidth-controlBar_dockedThumbnails));
+		set(layer[scrollAreaContainer-controlBar_dockedThumbnails].height, get(containerHeight-controlBar_dockedThumbnails));
+		
+		set(scrollAreaSize-controlBar_dockedThumbnails, 0);
+		
+		
+		mul(totalThumbsSpacer-controlBar_dockedThumbnails, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].currentThumbsCount), get(layer[scrollAreaContainer-controlBar_dockedThumbnails].thumbSpacer));
+		sub(totalThumbsSpacer-controlBar_dockedThumbnails, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].thumbSpacer));
+		
+		set(layer[get(layer[scrollAreaContainer-controlBar_dockedThumbnails].parent)].visible, true);
+		
+
+			mul(scrollAreaSize-controlBar_dockedThumbnails, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].itemWidth), get(layer[scrollAreaContainer-controlBar_dockedThumbnails].currentThumbsCount));
+			add(scrollAreaSize-controlBar_dockedThumbnails, get(totalThumbsSpacer-controlBar_dockedThumbnails));
+			
+			set(layer[thumbsScrollArea-controlBar_dockedThumbnails].width, get(scrollAreaSize-controlBar_dockedThumbnails));
+			set(layer[thumbsScrollArea-controlBar_dockedThumbnails].height, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].itemHeight));
+			
+			
+			if(layer[scrollAreaContainer-controlBar_dockedThumbnails].width LT layer[scrollAreaContainer-controlBar_dockedThumbnails].itemWidth,
+				set(layer[get(layer[scrollAreaContainer-controlBar_dockedThumbnails].parent)].visible, false);
+			,
+				verifyThumbnailsBarVisibility-controlBar_dockedThumbnails();
+			);
+			
+		
+		
+		if(layer[get(layer[scrollAreaContainer-controlBar_dockedThumbnails].parent)].width LT 0,
+			set(layer[get(layer[scrollAreaContainer-controlBar_dockedThumbnails].parent)].visible, false);
+		);
+		
+	</action>
+	
+	
+	<action name="verifyThumbnailsBarVisibility-controlBar_dockedThumbnails">
+		if(layer[get(layer[scrollAreaContainer-controlBar_dockedThumbnails].parent)].visible,
+			set(boolValue-controlBar_dockedThumbnails, false);
+			
+					set(boolValue-controlBar_dockedThumbnails, true);
+			
+			set(layer[get(layer[scrollAreaContainer-controlBar_dockedThumbnails].parent)].visible, get(boolValue-controlBar_dockedThumbnails));
+		);
+	</action>
+	
+	
+	<action name="createThumb-controlBar_dockedThumbnails">
+
+			add(offsetFactor-controlBar_dockedThumbnails, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].itemWidth), get(layer[scrollAreaContainer-controlBar_dockedThumbnails].thumbSpacer));
+	
+			mul(thumbIncPos-controlBar_dockedThumbnails, %3, get(offsetFactor-controlBar_dockedThumbnails));
+			
+			
+			if(layer[thumbnailBorderSource-controlBar_dockedThumbnails].url,
+				add(thumbIncPos-controlBar_dockedThumbnails, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].offsetX));
+			);
+			
+		
+		mul(negativeOffsetX-controlBar_dockedThumbnails, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].offsetX), -1);
+		mul(negativeOffsetY-controlBar_dockedThumbnails, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].offsetY), -1);
+		
+		set(thumbName, 'thumb_');
+		txtadd(thumbName, %1);
+		txtadd(thumbName, '-controlBar_dockedThumbnails');
+		addlayer(get(thumbName));
+		
+		set(thumbBorderName, 'thumbBorder_');
+		txtadd(thumbBorderName, %1);
+		txtadd(thumbBorderName, '-controlBar_dockedThumbnails');
+		addlayer(get(thumbBorderName));
+		
+		
+		ifnot(layer[thumbnailBorderSource-controlBar_dockedThumbnails].url,
+			set(layer[get(thumbBorderName)].type, container);
+			set(layer[get(thumbBorderName)].parent, thumbsScrollArea-controlBar_dockedThumbnails);
+		);
+		
+		
+		set(layer[get(thumbName)].onloaded, loadedImages-controlBar_dockedThumbnails("thumbnail"););
+		set(layer[get(thumbName)].url, %2);
+		set(layer[get(thumbName)].keep, true);
+		set(layer[get(thumbName)].width, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].thumbWidth));
+		set(layer[get(thumbName)].height, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].thumbHeight));
+		set(layer[get(thumbName)].align, topleft);
+		
+		
+			set(layer[get(thumbName)].y, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].offsetY));
+		
+			if(layer[thumbnailBorderSource-controlBar_dockedThumbnails].url,
+				set(layer[get(thumbName)].parent, thumbsScrollArea-controlBar_dockedThumbnails);
+				set(layer[get(thumbName)].x, get(thumbIncPos-controlBar_dockedThumbnails));
+			,
+				set(layer[get(thumbName)].parent, get(thumbBorderName));
+				set(layer[get(thumbName)].x, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].offsetX));
+				set(layer[get(thumbName)].onclick, mainloadscene(%1); resetMouseBehavior-controlBar_dockedThumbnails(); highlightThumb-controlBar_dockedThumbnails(%1));
+			);	
+			
+		
+		
+		set(layer[get(thumbBorderName)].keep, true);
+		set(layer[get(thumbBorderName)].width, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].itemWidth));
+		set(layer[get(thumbBorderName)].height, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].itemHeight));
+		set(layer[get(thumbBorderName)].align, topleft);
+		
+		if(layer[thumbnailBorderSource-controlBar_dockedThumbnails].url,
+			set(layer[get(thumbBorderName)].url, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].url));
+			set(layer[get(thumbBorderName)].scale9grid, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].scale9grid));
+			set(layer[get(thumbBorderName)].parent, get(thumbName));
+			set(layer[get(thumbBorderName)].x, get(negativeOffsetX-controlBar_dockedThumbnails));
+			set(layer[get(thumbBorderName)].y, get(negativeOffsetY-controlBar_dockedThumbnails));
+			set(layer[get(thumbBorderName)].onclick, mainloadscene(%1); resetMouseBehavior-controlBar_dockedThumbnails(); highlightThumb-controlBar_dockedThumbnails(%1));
+		,
+			
+				set(layer[get(thumbBorderName)].x, get(thumbIncPos-controlBar_dockedThumbnails)); 
+				
+		);
+		
+		
+		setupMouseBehavior-controlBar_dockedThumbnails(%1, %4);
+		
+	</action>
+	
+	
+	<action name="removeThumb-controlBar_dockedThumbnails">
+		set(thumbName, 'thumb_');
+		txtadd(thumbName, %1);
+		txtadd(thumbName, '-controlBar_dockedThumbnails');
+		removelayer(get(thumbName));
+		
+		set(thumbBorderName, 'thumbBorder_');
+		txtadd(thumbBorderName, %1);
+		txtadd(thumbBorderName, '-controlBar_dockedThumbnails');
+		removelayer(get(thumbBorderName));
+	</action>
+	
+	
+	<action name="initArrows-controlBar_dockedThumbnails">
+		ifnot(device.touchdevice,
+			
+			if(layer[scrollPrevArrow-controlBar_dockedThumbnails].targetHeight LE 0,
+				set(layer[scrollPrevArrow-controlBar_dockedThumbnails].targetHeight, get(layer[scrollPrevArrow-controlBar_dockedThumbnails].height));
+				set(layer[scrollPrevArrow-controlBar_dockedThumbnails].targetWidth, get(layer[scrollPrevArrow-controlBar_dockedThumbnails].width));
+			);
+			if(layer[scrollNextArrow-controlBar_dockedThumbnails].targetHeight LE 0,
+				set(layer[scrollNextArrow-controlBar_dockedThumbnails].targetHeight, get(layer[scrollNextArrow-controlBar_dockedThumbnails].height));
+				set(layer[scrollNextArrow-controlBar_dockedThumbnails].targetWidth, get(layer[scrollNextArrow-controlBar_dockedThumbnails].width));
+			);
+			
+			
+			set(layer[scrollPrevArrow-controlBar_dockedThumbnails].width, get(layer[scrollPrevArrow-controlBar_dockedThumbnails].targetWidth));
+			set(layer[scrollNextArrow-controlBar_dockedThumbnails].width, get(layer[scrollNextArrow-controlBar_dockedThumbnails].targetWidth));
+			
+				set(layer[scrollPrevArrowBg-controlBar_dockedThumbnails].width, get(layer[scrollPrevArrow-controlBar_dockedThumbnails].targetWidth));
+				set(layer[scrollNextArrowBg-controlBar_dockedThumbnails].width, get(layer[scrollNextArrow-controlBar_dockedThumbnails].targetWidth));
+			
+			div(btPrevQuarterHeight-controlBar_dockedThumbnails, get(layer[scrollPrevArrow-controlBar_dockedThumbnails].targetHeight), 3);
+			div(btNextQuarterHeight-controlBar_dockedThumbnails, get(layer[scrollNextArrow-controlBar_dockedThumbnails].targetHeight), 3);
+			
+			set(cropBtPrevX-controlBar_dockedThumbnails, 0);
+			set(cropBtPrevY-controlBar_dockedThumbnails, 0);
+			set(cropBtPrevW-controlBar_dockedThumbnails, get(layer[scrollPrevArrow-controlBar_dockedThumbnails].width));
+			set(cropBtPrevH-controlBar_dockedThumbnails, get(btPrevQuarterHeight-controlBar_dockedThumbnails));
+			
+			txtadd(layer[scrollPrevArrow-controlBar_dockedThumbnails].cropDefault, get(cropBtPrevX-controlBar_dockedThumbnails), '|', get(cropBtPrevY-controlBar_dockedThumbnails), '|', get(cropBtPrevW-controlBar_dockedThumbnails), '|', get(cropBtPrevH-controlBar_dockedThumbnails));
+			add(cropBtPrevY-controlBar_dockedThumbnails, get(btPrevQuarterHeight-controlBar_dockedThumbnails));
+			txtadd(layer[scrollPrevArrow-controlBar_dockedThumbnails].cropOver, get(cropBtPrevX-controlBar_dockedThumbnails), '|', get(cropBtPrevY-controlBar_dockedThumbnails), '|', get(cropBtPrevW-controlBar_dockedThumbnails), '|', get(cropBtPrevH-controlBar_dockedThumbnails));
+			add(cropBtPrevY-controlBar_dockedThumbnails, get(btPrevQuarterHeight-controlBar_dockedThumbnails));
+			txtadd(layer[scrollPrevArrow-controlBar_dockedThumbnails].cropDown, get(cropBtPrevX-controlBar_dockedThumbnails), '|', get(cropBtPrevY-controlBar_dockedThumbnails), '|', get(cropBtPrevW-controlBar_dockedThumbnails), '|', get(cropBtPrevH-controlBar_dockedThumbnails));
+			
+			set(cropBtNextX-controlBar_dockedThumbnails, 0);
+			set(cropBtNextY-controlBar_dockedThumbnails, 0);
+			set(cropBtNextW-controlBar_dockedThumbnails, get(layer[scrollNextArrow-controlBar_dockedThumbnails].width));
+			set(cropBtNextH-controlBar_dockedThumbnails, get(btNextQuarterHeight-controlBar_dockedThumbnails));
+			
+			txtadd(layer[scrollNextArrow-controlBar_dockedThumbnails].cropDefault, get(cropBtNextX-controlBar_dockedThumbnails), '|', get(cropBtNextY-controlBar_dockedThumbnails), '|', get(cropBtNextW-controlBar_dockedThumbnails), '|', get(cropBtNextH-controlBar_dockedThumbnails));
+			add(cropBtNextY-controlBar_dockedThumbnails, get(btNextQuarterHeight-controlBar_dockedThumbnails));
+			txtadd(layer[scrollNextArrow-controlBar_dockedThumbnails].cropOver, get(cropBtNextX-controlBar_dockedThumbnails), '|', get(cropBtNextY-controlBar_dockedThumbnails), '|', get(cropBtNextW-controlBar_dockedThumbnails), '|', get(cropBtNextH-controlBar_dockedThumbnails));
+			add(cropBtNextY-controlBar_dockedThumbnails, get(btNextQuarterHeight-controlBar_dockedThumbnails));
+			txtadd(layer[scrollNextArrow-controlBar_dockedThumbnails].cropDown, get(cropBtNextX-controlBar_dockedThumbnails), '|', get(cropBtNextY-controlBar_dockedThumbnails), '|', get(cropBtNextW-controlBar_dockedThumbnails), '|', get(cropBtNextH-controlBar_dockedThumbnails));
+		);
+	</action>
+	
+	<action name="setupArrows-controlBar_dockedThumbnails">
+		
+		if(layer[scrollAreaContainer-controlBar_dockedThumbnails].adjustToContent,
+			hideArrows-controlBar_dockedThumbnails();
+		,
+			ifnot(device.touchdevice,
+				
+					if(layer[scrollAreaContainer-controlBar_dockedThumbnails].width LT layer[thumbsScrollArea-controlBar_dockedThumbnails].width,
+				
+					showArrows-controlBar_dockedThumbnails();
+				,
+					hideArrows-controlBar_dockedThumbnails();
+				);
+			,
+				hideArrows-controlBar_dockedThumbnails();
+			);
+		);
+		
+		
+		if(%1,
+			scrollToCurrentThumb-controlBar_dockedThumbnails();
+		);
+		
+		
+			
+			if(layer[scrollAreaContainer-controlBar_dockedThumbnails].width LT layer[scrollAreaContainer-controlBar_dockedThumbnails].itemWidth,
+				set(layer[get(layer[scrollAreaContainer-controlBar_dockedThumbnails].parent)].visible, false);
+			);
+	</action>
+	
+	
+	<action name="showArrows-controlBar_dockedThumbnails">
+		
+		
+			set(layer[scrollPrevArrow-controlBar_dockedThumbnails].crop, get(layer[scrollPrevArrow-controlBar_dockedThumbnails].cropDefault));
+			set(layer[scrollPrevArrow-controlBar_dockedThumbnails].onovercrop, get(layer[scrollPrevArrow-controlBar_dockedThumbnails].cropOver));
+			set(layer[scrollPrevArrow-controlBar_dockedThumbnails].ondowncrop, get(layer[scrollPrevArrow-controlBar_dockedThumbnails].cropDown));
+			
+			set(layer[scrollNextArrow-controlBar_dockedThumbnails].crop, get(layer[scrollNextArrow-controlBar_dockedThumbnails].cropDefault));
+			set(layer[scrollNextArrow-controlBar_dockedThumbnails].onovercrop, get(layer[scrollNextArrow-controlBar_dockedThumbnails].cropOver));
+			set(layer[scrollNextArrow-controlBar_dockedThumbnails].ondowncrop, get(layer[scrollNextArrow-controlBar_dockedThumbnails].cropDown));
+			
+				set(layer[scrollPrevArrow-controlBar_dockedThumbnails].height, 36);
+				set(layer[scrollPrevArrow-controlBar_dockedThumbnails].width, 36);
+				
+				set(layer[scrollNextArrow-controlBar_dockedThumbnails].height, 36);
+				set(layer[scrollNextArrow-controlBar_dockedThumbnails].width, 36);
+			
+					set(layer[scrollPrevArrowBg-controlBar_dockedThumbnails].height, 36);
+					set(layer[scrollPrevArrowBg-controlBar_dockedThumbnails].width, 36);
+					
+					set(layer[scrollNextArrowBg-controlBar_dockedThumbnails].height, 36);
+					set(layer[scrollNextArrowBg-controlBar_dockedThumbnails].width, 36);
+				set(layer[scrollPrevArrowBg-controlBar_dockedThumbnails].crop, get(layer[scrollPrevArrow-controlBar_dockedThumbnails].cropDefault));
+				set(layer[scrollNextArrowBg-controlBar_dockedThumbnails].crop, get(layer[scrollNextArrow-controlBar_dockedThumbnails].cropDefault));
+			
+		
+		
+		set(layer[scrollPrevArrow-controlBar_dockedThumbnails].visible, true);
+		set(layer[scrollNextArrow-controlBar_dockedThumbnails].visible, true);
+		
+			set(layer[scrollPrevArrowBg-controlBar_dockedThumbnails].visible, true);
+			set(layer[scrollNextArrowBg-controlBar_dockedThumbnails].visible, true);
+		
+		
+			
+			add(totalArrowSize-controlBar_dockedThumbnails, get(layer[scrollPrevArrow-controlBar_dockedThumbnails].width), get(layer[scrollNextArrow-controlBar_dockedThumbnails].width));
+		
+			
+			sub(scrollAreaContainerSize-controlBar_dockedThumbnails, get(layer[get(layer[scrollAreaContainer-controlBar_dockedThumbnails].parent)].pixelwidth), get(totalArrowSize-controlBar_dockedThumbnails));
+		
+			set(layer[scrollAreaContainer-controlBar_dockedThumbnails].width, get(scrollAreaContainerSize-controlBar_dockedThumbnails));
+			
+			set(layer[scrollAreaContainer-controlBar_dockedThumbnails].x, get(layer[scrollPrevArrow-controlBar_dockedThumbnails].width));
+			
+		
+		
+		set(layer[scrollPrevArrow-controlBar_dockedThumbnails].onhover, scrollPrev-controlBar_dockedThumbnails();changeArrowsBgCrop-controlBar_dockedThumbnails('prev','over'););
+		set(layer[scrollNextArrow-controlBar_dockedThumbnails].onhover, scrollNext-controlBar_dockedThumbnails();changeArrowsBgCrop-controlBar_dockedThumbnails('next','over'););
+		
+		set(layer[scrollPrevArrow-controlBar_dockedThumbnails].onclick, scrollPrev-controlBar_dockedThumbnails(get(layer[scrollAreaContainer-controlBar_dockedThumbnails].scrollSpeedAcceleration)););
+		set(layer[scrollNextArrow-controlBar_dockedThumbnails].onclick, scrollNext-controlBar_dockedThumbnails(get(layer[scrollAreaContainer-controlBar_dockedThumbnails].scrollSpeedAcceleration)););
+		
+		
+		
+		
+		
+		set(layer[scrollPrevArrow-controlBar_dockedThumbnails].onout, set(layer[scrollAreaContainer-controlBar_dockedThumbnails].scrollSpeed, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].scrollSpeedInit));changeArrowsBgCrop-controlBar_dockedThumbnails('prev','out'););
+		set(layer[scrollNextArrow-controlBar_dockedThumbnails].onout, set(layer[scrollAreaContainer-controlBar_dockedThumbnails].scrollSpeed, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].scrollSpeedInit));changeArrowsBgCrop-controlBar_dockedThumbnails('next','out'););
+		
+	</action>
+	
+	
+	<action name="changeArrowsBgCrop-controlBar_dockedThumbnails">
+		if(%1 == "prev",
+			if(%2 == "over",
+				set(layer[scrollPrevArrowBg-controlBar_dockedThumbnails].crop, get(layer[scrollPrevArrow-controlBar_dockedThumbnails].cropOver));
+			,
+				set(layer[scrollPrevArrowBg-controlBar_dockedThumbnails].crop, get(layer[scrollPrevArrow-controlBar_dockedThumbnails].cropDefault));
+			);
+		,
+			if(%2 == "over",
+				set(layer[scrollNextArrowBg-controlBar_dockedThumbnails].crop, get(layer[scrollNextArrow-controlBar_dockedThumbnails].cropOver));
+			,
+				set(layer[scrollNextArrowBg-controlBar_dockedThumbnails].crop, get(layer[scrollNextArrow-controlBar_dockedThumbnails].cropDefault));
+			);
+		);
+	</action>
+	
+	
+	<action name="hideArrows-controlBar_dockedThumbnails">
+		
+		set(layer[scrollPrevArrow-controlBar_dockedThumbnails].visible, false);
+		set(layer[scrollNextArrow-controlBar_dockedThumbnails].visible, false);
+		
+			set(layer[scrollPrevArrowBg-controlBar_dockedThumbnails].visible, false);
+			set(layer[scrollNextArrowBg-controlBar_dockedThumbnails].visible, false);
+		
+
+			mul(totalMargin-controlBar_dockedThumbnails, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].marginX), 2);
+			
+			sub(scrollAreaContainerSize-controlBar_dockedThumbnails, get(layer[get(layer[scrollAreaContainer-controlBar_dockedThumbnails].parent)].pixelwidth), get(totalMargin-controlBar_dockedThumbnails));
+
+			set(layer[scrollAreaContainer-controlBar_dockedThumbnails].width, get(scrollAreaContainerSize-controlBar_dockedThumbnails));
+			set(layer[scrollAreaContainer-controlBar_dockedThumbnails].x, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].marginX));
+			 
+			
+	</action>
+	
+	
+	<action name="scrollPrev-controlBar_dockedThumbnails">
+		
+		
+		if(%1,
+			inc(layer[scrollAreaContainer-controlBar_dockedThumbnails].scrollSpeed, %1);
+		);
+		
+		layer[thumbsScrollArea-controlBar_dockedThumbnails].stopscrolling();
+		
+		set(scrollLimit-controlBar_dockedThumbnails, 0);
+		
+		
+			
+			
+			add(layer[thumbsScrollArea-controlBar_dockedThumbnails].x, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].scrollSpeed));
+			if(layer[thumbsScrollArea-controlBar_dockedThumbnails].x GE scrollLimit-controlBar_dockedThumbnails,
+				set(layer[thumbsScrollArea-controlBar_dockedThumbnails].x, get(scrollLimit-controlBar_dockedThumbnails));
+			);
+		
+		if(layer[scrollAreaContainer-controlBar_dockedThumbnails].scrollSpeed LT layer[scrollAreaContainer-controlBar_dockedThumbnails].scrollSpeedMax,
+			inc(layer[scrollAreaContainer-controlBar_dockedThumbnails].scrollSpeed);
+		);
+		
+	</action>
+	
+	
+	<action name="scrollNext-controlBar_dockedThumbnails">
+		
+		
+		if(%1,
+			inc(layer[scrollAreaContainer-controlBar_dockedThumbnails].scrollSpeed, %1);
+		);
+		
+		layer[thumbsScrollArea-controlBar_dockedThumbnails].stopscrolling();
+		
+			
+			sub(scrollLimit-controlBar_dockedThumbnails, get(layer[thumbsScrollArea-controlBar_dockedThumbnails].width), get(layer[scrollAreaContainer-controlBar_dockedThumbnails].width));
+			
+			mul(scrollLimit-controlBar_dockedThumbnails, -1);
+			
+			sub(layer[thumbsScrollArea-controlBar_dockedThumbnails].x, get(layer[scrollAreaContainer-controlBar_dockedThumbnails].scrollSpeed));
+			if(layer[thumbsScrollArea-controlBar_dockedThumbnails].x LE scrollLimit-controlBar_dockedThumbnails,
+				set(layer[thumbsScrollArea-controlBar_dockedThumbnails].x, get(scrollLimit-controlBar_dockedThumbnails));
+			);
+		
+		if(layer[scrollAreaContainer-controlBar_dockedThumbnails].scrollSpeed LT layer[scrollAreaContainer-controlBar_dockedThumbnails].scrollSpeedMax,
+			inc(layer[scrollAreaContainer-controlBar_dockedThumbnails].scrollSpeed);
+		);
+		
+	</action>
+	
+	
+	<action name="resetMouseBehavior-controlBar_dockedThumbnails">
+	
+		
+		
+		
+		set(j-controlBar_dockedThumbnails-wait,25);
+		
+			for( set(j-controlBar_dockedThumbnails, 0), j-controlBar_dockedThumbnails LT scene.count, inc(j-controlBar_dockedThumbnails),
+				if(j-controlBar_dockedThumbnails-wait == j-controlBar_dockedThumbnails,
+					add(j-controlBar_dockedThumbnails-wait,25);
+					wait(0);
+				);
+				set(thumbBorderName, 'thumbBorder_');
+				txtadd(thumbBorderName, get(scene[get(j-controlBar_dockedThumbnails)].name));
+				txtadd(thumbBorderName, '-controlBar_dockedThumbnails');
+				
+				setupMouseBehavior-controlBar_dockedThumbnails(get(scene[get(j-controlBar_dockedThumbnails)].name), get(scene[get(j-controlBar_dockedThumbnails)].titleid));
+			);
+		
+	</action>
+	
+	
+	<action name="setupMouseBehavior-controlBar_dockedThumbnails">
+
+		set(thumbName, 'thumb_');
+		txtadd(thumbName, %1);
+		txtadd(thumbName, '-controlBar_dockedThumbnails');
+		
+		set(thumbBorderName, 'thumbBorder_');
+		txtadd(thumbBorderName, %1);
+		txtadd(thumbBorderName, '-controlBar_dockedThumbnails');
+		
+		if(layer[thumbnailBorderSource-controlBar_dockedThumbnails].url,
+			set(layer[get(thumbBorderName)].crop, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].cropDefault));
+			set(layer[get(thumbBorderName)].onovercrop, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].cropHover));
+			set(layer[get(thumbBorderName)].ondowncrop, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].cropHover));
+			set(layer[get(thumbBorderName)].tooltip, %2);
+				set(layer[get(thumbBorderName)].onhover, showToolTip(get(align), themeunanimemenuTooltipStyle));
+				set(layer[get(thumbBorderName)].onout, hideTooltip());
+		,
+			set(layer[get(thumbBorderName)].bgcolor, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].borderColorDefault));
+			set(layer[get(thumbBorderName)].bgalpha, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].borderAlphaDefault));
+				set(layer[get(thumbName)].tooltip, %2);
+				set(layer[get(thumbName)].onhover, showToolTip(get(align), themeunanimemenuTooltipStyle));
+			
+			set(layer[get(thumbName)].onover, 
+				set(layer[get(parent)].bgcolor, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].borderColorHover));
+				set(layer[get(parent)].bgalpha, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].borderAlphaHover));
+			);
+			
+			set(layer[get(thumbName)].onout, 
+				set(layer[get(parent)].bgcolor, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].borderColorDefault));
+				set(layer[get(parent)].bgalpha, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].borderAlphaDefault));
+				hideTooltip();
+			);
+		);
+	
+	</action>
+	
+	
+	<action name="highlightCurrentThumb-controlBar_dockedThumbnails">
+			highlightThumb-controlBar_dockedThumbnails(get(xml.scene));
+	</action>
+	
+	
+	<action name="highlightThumb-controlBar_dockedThumbnails">
+	
+		set(thumbBorderName, 'thumbBorder_');
+		txtadd(thumbBorderName, %1);
+		txtadd(thumbBorderName, '-controlBar_dockedThumbnails');
+		
+		if(layer[thumbnailBorderSource-controlBar_dockedThumbnails].url,
+			set(layer[get(thumbBorderName)].crop, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].cropSelected));
+			set(layer[get(thumbBorderName)].onovercrop, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].cropSelected));
+			set(layer[get(thumbBorderName)].ondowncrop, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].cropSelected));
+		,
+			set(thumbName, 'thumb_');
+			txtadd(thumbName, %1);
+			txtadd(thumbName, '-controlBar_dockedThumbnails');
+			
+			set(layer[get(thumbBorderName)].bgcolor, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].borderColorSelected));
+			set(layer[get(thumbBorderName)].bgalpha, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].borderAlphaSelected));
+			
+			set(layer[get(thumbName)].onover, "");
+			set(layer[get(thumbName)].onout, hideTooltip(););
+		);
+
+		scrollToThumb-controlBar_dockedThumbnails(%1);
+	</action>
+	
+	
+	<action name="scrollToCurrentThumb-controlBar_dockedThumbnails">
+			scrollToThumb-controlBar_dockedThumbnails(get(xml.scene));
+	</action>
+	
+	
+	<action name="scrollToThumb-controlBar_dockedThumbnails">
+		
+		set(thumbName, 'thumb_');
+		set(thumbBorderName, 'thumbBorder_');
+		
+		txtadd(thumbName, %1);
+		txtadd(thumbName, '-controlBar_dockedThumbnails');
+		txtadd(thumbBorderName, %1);
+		txtadd(thumbBorderName, '-controlBar_dockedThumbnails');
+
+			set(posX-controlBar_dockedThumbnails, 0);
+			if(layer[thumbnailBorderSource-controlBar_dockedThumbnails].url,
+				div(halfThumbWidth-controlBar_dockedThumbnails, get(layer[get(thumbName)].width), 2);
+				ifnot(layer[scrollAreaContainer-controlBar_dockedThumbnails].adjustToContent,
+					add(posX-controlBar_dockedThumbnails, get(layer[get(thumbName)].x), get(halfThumbWidth-controlBar_dockedThumbnails));
+				);
+				if(layer[thumbsScrollArea-controlBar_dockedThumbnails].scrolltocenter,
+					layer[thumbsScrollArea-controlBar_dockedThumbnails].scrolltocenter(get(posX-controlBar_dockedThumbnails), 0);
+				);
+			,
+				div(halfThumbWidth-controlBar_dockedThumbnails, get(layer[get(thumbBorderName)].width), 2);
+				ifnot(layer[scrollAreaContainer-controlBar_dockedThumbnails].adjustToContent,
+					add(posX-controlBar_dockedThumbnails, get(layer[get(thumbBorderName)].x), get(halfThumbWidth-controlBar_dockedThumbnails));
+				);
+				if(layer[thumbsScrollArea-controlBar_dockedThumbnails].scrolltocenter,
+					layer[thumbsScrollArea-controlBar_dockedThumbnails].scrolltocenter(get(posX-controlBar_dockedThumbnails), 0);
+				);
+			);
+		
+	</action>
+
+<action name="resetThumbnailsBarSize-controlBar_dockedThumbnails">
+	
+	
+	set(sizeHeight, 40);
+	mul(totalMarginY, 5, 2);
+	if(layer[thumbnailBorderSource-controlBar_dockedThumbnails].url,
+		mul(totalOffsetY, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].offsetY), 2);
+	,
+		mul(totalOffsetY, get(layer[thumbnailBorderSource-controlBar_dockedThumbnails].borderWidth), 2);
+	);
+	add(sizeHeight, totalMarginY);
+	add(sizeHeight, totalOffsetY);
+	
+	setSize-controlBar_dockedThumbnails(%1, sizeHeight);
+</action>
+
+
+
+
+<action name="themeunanimebuildMenu">
+	
+    set(themeunanimebutton_pos, 0);
+    set(layer[themeunanimebtn_hidecontrols].x, get(themeunanimebutton_pos));
+    set(layer[themeunanimebtn_hidecontrols_bg].x, get(themeunanimebutton_pos));
+    inc(themeunanimebutton_pos, 36);
+
+
+      if (device.desktop,
+        set(layer[themeunanimebtn_display_help].x, get(themeunanimebutton_pos));
+        set(layer[themeunanimebtn_display_help_bg].x, get(themeunanimebutton_pos));
+        set(layer[themeunanimebtn_close_help].x  , get(themeunanimebutton_pos));
+        set(layer[themeunanimebtn_close_help_bg].x  , get(themeunanimebutton_pos));
+        inc(themeunanimebutton_pos, 36);
+      );
+
+      if (device.fullscreensupport,
+        set(layer[themeunanimebtn_openfs].x, get(themeunanimebutton_pos));
+        set(layer[themeunanimebtn_closefs].x, get(themeunanimebutton_pos));
+        set(layer[themeunanimebtn_openfs_bg ].x, get(themeunanimebutton_pos));
+        set(layer[themeunanimebtn_closefs_bg].x, get(themeunanimebutton_pos));
+        inc(themeunanimebutton_pos, 36);
+      );
+
+
+
+      set(layer[themeunanimebtn_autorotate_on].x , get(themeunanimebutton_pos));
+      set(layer[themeunanimebtn_autorotate_on_bg].x , get(themeunanimebutton_pos));
+      set(layer[themeunanimebtn_autorotate_off].x, get(themeunanimebutton_pos));
+      set(layer[themeunanimebtn_autorotate_off_bg].x, get(themeunanimebutton_pos));
+      inc(themeunanimebutton_pos, 36);
+
+
+
+      if (device.desktop,
+        set(layer[themeunanimebtn_ctrlmode_drag_to].x, get(themeunanimebutton_pos));
+        set(layer[themeunanimebtn_ctrlmode_drag_to_bg].x, get(themeunanimebutton_pos));
+        set(layer[themeunanimebtn_ctrlmode_move_to].x, get(themeunanimebutton_pos));
+        set(layer[themeunanimebtn_ctrlmode_move_to_bg].x, get(themeunanimebutton_pos));
+        inc(themeunanimebutton_pos, 36);
+      );
+
+
+
+      if (device.desktop,
+        set(layer[themeunanimebtn_right].x, get(themeunanimebutton_pos));
+        set(layer[themeunanimebtn_right_bg].x, get(themeunanimebutton_pos));
+        inc(themeunanimebutton_pos, 36);
+
+        set(layer[themeunanimebtn_left].x, get(themeunanimebutton_pos));
+        set(layer[themeunanimebtn_left_bg].x, get(themeunanimebutton_pos));
+        inc(themeunanimebutton_pos, 36);
+      );
+
+      if (device.desktop,
+        set(layer[themeunanimebtn_down].x, get(themeunanimebutton_pos));
+        set(layer[themeunanimebtn_down_bg].x, get(themeunanimebutton_pos));
+        inc(themeunanimebutton_pos, 36);
+
+        set(layer[themeunanimebtn_up].x, get(themeunanimebutton_pos));
+        set(layer[themeunanimebtn_up_bg].x, get(themeunanimebutton_pos));
+        inc(themeunanimebutton_pos, 36);
+      );
+
+      if (device.desktop,
+        set(layer[themeunanimebtn_out].x, get(themeunanimebutton_pos));
+        set(layer[themeunanimebtn_out_bg].x, get(themeunanimebutton_pos));
+        inc(themeunanimebutton_pos, 36);
+        set(layer[themeunanimebtn_in].x, get(themeunanimebutton_pos));
+        set(layer[themeunanimebtn_in_bg].x, get(themeunanimebutton_pos));
+        inc(themeunanimebutton_pos, 36);
+      );
+
+
+      if (scene.count GT 1,
+        set(layer[themeunanimebtn_next_pano].x, get(themeunanimebutton_pos));
+        set(layer[themeunanimebtn_next_pano_bg].x, get(themeunanimebutton_pos));
+        inc(themeunanimebutton_pos, 36);
+
+        set(layer[themeunanimebtn_prev_pano].x, get(themeunanimebutton_pos));
+        set(layer[themeunanimebtn_prev_pano_bg].x, get(themeunanimebutton_pos));
+        inc(themeunanimebutton_pos, 36);
+      );
+
+      set(themeunanimeThumbnailsPos, get(themeunanimebutton_pos));
+      themeunanimeUpdateThumbnailsSize();
+	
+	
+	
+</action>
+
+<events name="themeunanimeStartTourEvents" onTourStart="themeunanimeCallOnStartTour();" keep="true" />
+
+<action name="themeunanimeCallOnStartTour">
+	
+	themeunanimeshowMenuControls();
+</action>
+
+	<action name="themeunanimeOnResize">
+		themeunanimeUpdateThumbnailsSize();
+	</action>
+	<action name="themeunanimeUpdateThumbnailsSize">
+		copy(newThumbnailsBarWidth, stagewidth);
+		sub(newThumbnailsBarWidth, themeunanimeThumbnailsPos);
+		
+		resetThumbnailsBarSize-controlBar_dockedThumbnails(get(newThumbnailsBarWidth));
+	</action>
+
+    <layer name="themeunanime_bg"
+           keep="true"
+           url="%FIRSTXML%/graphics/dockedthumbscontrolbar/footer.png"
+           zorder="0"
+           width="100%"
+           align="bottomleft"
+           x="0"
+           visible="false" />
+
+    <style name="themeunanime_btn_style_bg"
+            keep="true"
+            parent="themeunanime_bg"
+            crop="0|0|48|48"
+            url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_bg.png"
+            align="bottomright"
+            height="36"
+            width="36"
+            alpha="0.3"
+            y="12"
+            zorder="0"
+            />
+
+    <style name="themeunanime_btn_style_on_bg"
+           keep="true"
+           parent="themeunanime_bg"
+           crop="0|48|48|48"
+           url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_bg.png"
+           align="bottomright"
+           height="36"
+           width="36"
+           alpha="0.3"
+           y="12"
+           zorder="0"
+           />
+
+    <style name="themeunanime_btn_down_style"
+           keep="true"
+           parent="themeunanime_bg"
+                 crop="0| 0|48|48"
+           onovercrop="0|48|48|48"
+           ondowncrop="0|96|48|48"
+           align="bottomright"
+           height="36"
+           width="36"
+           x="0" y="12"
+           zorder="1"
+           onhover="showTooltip(bottomright, themeunanimemenuTooltipStyle);"
+           onover="themeunanimectrl_btn_onoveraction"
+           onout="themeunanimectrl_btn_onoutaction"
+           />
+
+    <style name="themeunanime_btn_style"
+           keep="true"
+           parent="themeunanime_bg"
+                 crop="0| 0|48|48"
+           onovercrop="0|48|48|48"
+           ondowncrop="0|96|48|48"
+           align="bottomright"
+           height="36"
+           width="36"
+           x="0" y="12"
+           zorder="1"
+           onhover="showTooltip(bottomright, themeunanimemenuTooltipStyle);"
+           onover="themeunanimectrl_btn_onoveraction"
+           ondown="themeunanimectrl_btn_ondownaction"
+           onout="themeunanimectrl_btn_onoutaction"
+           />
+
+  <action name="themeunanimectrl_btn_onoveraction">
+    txtadd(btn_bg_name, get(name), "_bg");
+    set(layer[get(btn_bg_name)].crop, "0|48|48|48");
+  </action>
+
+  <action name="themeunanimectrl_btn_ondownaction">
+    txtadd(btn_bg_name, get(name), "_bg");
+    set(layer[get(btn_bg_name)].crop, "0|96|48|48");
+  </action>
+
+  <action name="themeunanimectrl_btn_onoutaction">
+    txtadd(btn_bg_name, get(name), "_bg");
+    set(layer[get(btn_bg_name)].crop, "0|0|48|48");
+    hideTooltip();
+  </action>
+
+    <style name="themeunanime_btn_style_on"
+            keep="true"
+            parent="themeunanime_bg"
+                  crop="0|48|48|48"
+            onovercrop="0|48|48|48"
+            ondowncrop="0|96|48|48"
+            align="bottomright"
+            height="36"
+            width="36"
+            y="12"
+            zorder="1"
+            onhover="showTooltip(bottomright, themeunanimemenuTooltipStyle);" 
+            onout="hideTooltip();"
+            />
+
+
+
+	<events name="themeunanimecontrolmodechangedevent" oncontrolmodechanged="themeunanimeupdateControlModeButtons();" keep="true"/>
+	<action name="themeunanimeHideControlModeButtons">
+		set(layer[themeunanimebtn_ctrlmode_move_to].visible, false);
+		set(layer[themeunanimebtn_ctrlmode_drag_to].visible, false);
+		set(layer[themeunanimebtn_ctrlmode_move_to_bg].visible, false);
+		set(layer[themeunanimebtn_ctrlmode_drag_to_bg].visible, false);
+	</action>
+	<action name="themeunanimeShowControlModeButtons">
+		if (tour_controlmodemousetype == "moveto",
+			set(layer[themeunanimebtn_ctrlmode_drag_to].visible, true);
+			set(layer[themeunanimebtn_ctrlmode_move_to].visible, false);
+			set(layer[themeunanimebtn_ctrlmode_drag_to_bg].visible, true);
+			set(layer[themeunanimebtn_ctrlmode_move_to_bg].visible, false);
+		,
+			set(layer[themeunanimebtn_ctrlmode_move_to].visible, true);
+			set(layer[themeunanimebtn_ctrlmode_drag_to].visible, false);
+			set(layer[themeunanimebtn_ctrlmode_move_to_bg].visible, true);
+			set(layer[themeunanimebtn_ctrlmode_drag_to_bg].visible, false);
+		);
+	</action>
+	<action name="themeunanimeupdateControlModeButtons">
+	if (device.desktop,
+		set(themeunanimeDisplayControlModeButtons, false);
+		if (themeunanimeIsOpened, set(themeunanimeDisplayControlModeButtons, true););
+		if (themeunanimeDisplayControlModeButtons,
+			themeunanimeShowControlModeButtons();
+		,
+			themeunanimeHideControlModeButtons();
+		);
+	,
+		themeunanimeHideControlModeButtons();
+	);
+	</action>
+	
+    <layer name="themeunanimebtn_ctrlmode_move_to_bg" style="themeunanime_btn_style_bg" visible="false" devices="desktop" />
+    <layer name="themeunanimebtn_ctrlmode_move_to"
+           url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_move_to.png"
+           style="themeunanime_btn_style"
+           tooltip="controlBar_dockedThumbnailsctrlmodeMoveTip"
+           onclick="setControlModeMoveTo();"
+           visible="false"
+           devices="desktop"
+           />
+    <layer name="themeunanimebtn_ctrlmode_drag_to_bg" style="themeunanime_btn_style_bg" visible="false" devices="desktop" />
+    <layer name="themeunanimebtn_ctrlmode_drag_to"
+           url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_drag_to.png"
+           style="themeunanime_btn_style"
+           tooltip="controlBar_dockedThumbnailsctrlmodeDragTip"
+           onclick="setControlModeDragTo();"
+           visible="false"
+           devices="desktop"
+           />
+
+    <layer name="themeunanimebtn_in_bg" style="themeunanime_btn_style_bg" visible="false" devices="desktop"/>
+    <layer name="themeunanimebtn_in"
+           url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_zoom_in.png"
+           style="themeunanime_btn_down_style"
+           ondown="themeunanimectrl_btn_ondownaction();set(fov_moveforce, -1);"
+           onup="set(fov_moveforce, 0);"
+           tooltip="controlBar_dockedThumbnailszoomInTip"
+           devices="desktop"
+           visible="false"
+           />
+    <layer name="themeunanimebtn_out_bg" style="themeunanime_btn_style_bg" visible="false" devices="desktop"/>
+    <layer name="themeunanimebtn_out"
+           url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_zoom_out.png"
+           style="themeunanime_btn_down_style"
+           ondown="themeunanimectrl_btn_ondownaction();set(fov_moveforce, +1);"
+           onup="set(fov_moveforce, 0);"
+           tooltip="controlBar_dockedThumbnailszoomOutTip"
+           devices="desktop"
+           visible="false"
+           />
+
+    <layer name="themeunanimebtn_left_bg" style="themeunanime_btn_style_bg" devices="desktop" visible="false" />
+    <layer name="themeunanimebtn_left"
+           url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_move_left.png"
+           style="themeunanime_btn_down_style"
+           ondown="themeunanimectrl_btn_ondownaction();set(hlookat_moveforce, -1);"
+           onup="set(hlookat_moveforce, 0);"
+            tooltip="controlBar_dockedThumbnailsmoveLeftTip"
+           devices="desktop"
+           visible="false"
+           />
+    <layer name="themeunanimebtn_right_bg" style="themeunanime_btn_style_bg" devices="desktop" visible="false" />
+    <layer name="themeunanimebtn_right"
+           url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_move_right.png"
+           style="themeunanime_btn_down_style"
+           ondown="themeunanimectrl_btn_ondownaction();set(hlookat_moveforce, +1);"
+           onup="set(hlookat_moveforce, 0);"
+            tooltip="controlBar_dockedThumbnailsmoveRightTip"
+           devices="desktop"
+           visible="false"
+           />
+
+    <layer name="themeunanimebtn_up_bg" style="themeunanime_btn_style_bg" devices="desktop" visible="false" />
+    <layer name="themeunanimebtn_up"
+           url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_move_up.png"
+           style="themeunanime_btn_down_style"
+           ondown="themeunanimectrl_btn_ondownaction();set(vlookat_moveforce, -1);"
+           onup="set(vlookat_moveforce, 0);"
+            tooltip="controlBar_dockedThumbnailsmoveUpTip"
+           devices="desktop"
+           visible="false"
+           />
+    <layer name="themeunanimebtn_down_bg" style="themeunanime_btn_style_bg" devices="desktop" visible="false" />
+    <layer name="themeunanimebtn_down"
+           url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_move_down.png"
+           style="themeunanime_btn_down_style"
+           ondown="themeunanimectrl_btn_ondownaction();set(vlookat_moveforce, +1);"
+           onup="set(vlookat_moveforce, 0);"
+            tooltip="controlBar_dockedThumbnailsmoveDownTip"
+           devices="desktop"
+           visible="false"
+           />
+
+
+
+    <layer name="themeunanimebtn_prev_pano_bg" style="themeunanime_btn_style_bg" visible="false" />
+    <layer name="themeunanimebtn_prev_pano"
+           url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_previous_scene.png"
+           onclick="loadPreviousScene();"
+           style="themeunanime_btn_style"
+           tooltip="controlBar_dockedThumbnailsprevSceneTip"
+           visible="false"
+           />
+    <layer name="themeunanimebtn_next_pano_bg" style="themeunanime_btn_style_bg" visible="false" />
+    <layer name="themeunanimebtn_next_pano"
+           url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_next_scene.png"
+           onclick="loadNextScene();"
+           style="themeunanime_btn_style"
+            tooltip="controlBar_dockedThumbnailsnextSceneTip"
+           visible="false"
+           />
+
+
+
+    <layer name="themeunanimebtn_openfs_bg" style="themeunanime_btn_style_bg" visible="false" devices="fullscreensupport" />
+    <layer name="themeunanimebtn_openfs"
+           url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_enter_fs.png"
+           onclick="enterFullscreen();"
+           style="themeunanime_btn_style"
+           visible="false"
+           tooltip="controlBar_dockedThumbnailsopenFsTip"
+           devices="fullscreensupport"
+           />
+    <layer name="themeunanimebtn_closefs_bg" style="themeunanime_btn_style_on_bg" visible="false" devices="fullscreensupport" />
+    <layer name="themeunanimebtn_closefs"
+           url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_close_fs.png"
+           onclick="exitFullscreen();"
+           style="themeunanime_btn_style_on"
+           visible="false"
+           tooltip="controlBar_dockedThumbnailscloseFsTip"
+           devices="fullscreensupport"
+           />
+
+    <layer name="themeunanimebtn_autorotate_on_bg" style="themeunanime_btn_style_bg" visible="false" />
+    <layer name="themeunanimebtn_autorotate_on"
+           url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_start_autorotation.png"
+           onclick="startautorotation();"
+           style="themeunanime_btn_style"
+           visible="false"
+            tooltip="controlBar_dockedThumbnailsautorotateOnTip"
+           />
+    <layer name="themeunanimebtn_autorotate_off_bg" style="themeunanime_btn_style_on_bg" visible="false" />
+    <layer name="themeunanimebtn_autorotate_off"
+           url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_stop_autorotation.png"
+           onclick="stopautorotation();"
+           style="themeunanime_btn_style_on"
+           visible="false"
+           tooltip="controlBar_dockedThumbnailsautorotateOffTip"
+           />
+
+
+
+    <layer name="themeunanimebtn_display_help_bg" style="themeunanime_btn_style_bg" visible="false" devices="desktop" />
+    <layer name="themeunanimebtn_display_help"
+           url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_help.png"
+           onclick="themeunanimedisplayHelp();"
+           style="themeunanime_btn_style"
+           tooltip="controlBar_dockedThumbnailsdisplayHelpTip"
+           devices="desktop"
+           visible="false"
+           />
+    <layer name="themeunanimebtn_close_help_bg" style="themeunanime_btn_style_on_bg" visible="false" devices="desktop"/>
+    <layer name="themeunanimebtn_close_help"
+           url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_help.png"
+           onclick="themeunanimecloseHelp();"
+           style="themeunanime_btn_style_on"
+           visible="false"
+           tooltip="controlBar_dockedThumbnailshideHelpTip"
+           devices="desktop"
+           />
+
+
+
+    <layer name="themeunanimebtn_hidecontrols_bg" style="themeunanime_btn_style_bg" visible="false" />
+    <layer name="themeunanimebtn_hidecontrols"
+           url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_hide_controls.png"
+           style="themeunanime_btn_style"
+           onclick="themeunanimehideMenuControls();hideTourControls();"
+           visible="false"
+            tooltip="controlBar_dockedThumbnailshideControlsTip"
+           />
+
+    <layer name="themeunanimebtn_showcontrols"
+                  crop="0| 0|48|48"
+            onovercrop="0|48|48|48"
+            ondowncrop="0|96|48|48"
+            keep="true"
+            url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_show_controls_bg.png"
+            align="bottomright"
+            zorder="0"
+            height="36"
+            width="36"
+            visible="false"
+            y="12"
+            x="0" >
+    <layer name="themeunanimebtn_showcontrols_fg"
+                  crop="0| 0|48|48"
+            onovercrop="0|48|48|48"
+            ondowncrop="0|96|48|48"
+            onclick="themeunanimeshowMenuControls();showTourControls();"
+            onhover="showTooltip(bottomright, themeunanimemenuTooltipStyle);"
+            onout="hideTooltip();"
+            tooltip="controlBar_dockedThumbnailsdisplayControlsTip"
+            keep="true"
+            url="%FIRSTXML%/graphics/dockedthumbscontrolbar/btn_show_controls.png"
+            align="center"
+            height="36"
+            width="36"
+            />
+    </layer>
+
+
+<action name="themeunanimehideMenuControls">
+	set(themeunanimeIsOpened, false);
+	set(layer[themeunanime_bg].visible, false);
+	set(layer[themeunanimebtn_showcontrols].visible, true);
+	set(layer[themeunanimebtn_hidecontrols_bg].visible, false);
+	set(layer[themeunanimebtn_hidecontrols].visible, false);
+	set(layer[themeunanimebtn_in_bg].visible, false);
+	set(layer[themeunanimebtn_out_bg].visible, false);
+	set(layer[themeunanimebtn_in].visible, false);
+	set(layer[themeunanimebtn_out].visible, false);
+	set(layer[themeunanimebtn_right_bg].visible, false);
+	set(layer[themeunanimebtn_left_bg].visible, false);
+	set(layer[themeunanimebtn_right].visible, false);
+	set(layer[themeunanimebtn_left].visible, false);
+	set(layer[themeunanimebtn_down_bg].visible, false);
+	set(layer[themeunanimebtn_up_bg].visible, false);
+	set(layer[themeunanimebtn_down].visible, false);
+	set(layer[themeunanimebtn_up].visible, false);
+	if (scene.count GT 1,
+	set(layer[themeunanimebtn_prev_pano_bg].visible, false);
+	set(layer[themeunanimebtn_next_pano_bg].visible, false);
+	set(layer[themeunanimebtn_prev_pano].visible, false);
+	set(layer[themeunanimebtn_next_pano].visible, false);
+	);
+
+
+
+
+		themeunanimeupdateControlModeButtons();
+
+
+
+
+		themeunanimeupdateFullscreenButtons();
+		themeunanimeupdateAutorotationButtons();
+
+
+		themeunanimeupdateHelpButtons();
+
+
+</action>
+<action name="themeunanimeshowMenuControls">
+	set(themeunanimeIsOpened, true);
+      themeunanimeupdateFullscreenButtons();
+
+
+      themeunanimeupdateAutorotationButtons();
+
+
+      themeunanimeupdateControlModeButtons();
+
+
+
+
+      themeunanimeupdateHelpButtons();
+      set(layer[themeunanime_bg].visible, true);
+	set(layer[themeunanimebtn_showcontrols].visible, false);
+	set(layer[themeunanimebtn_hidecontrols_bg].visible, true);
+	set(layer[themeunanimebtn_hidecontrols].visible, true);
+	set(layer[themeunanimebtn_in_bg].visible, true);
+	set(layer[themeunanimebtn_out_bg].visible, true);
+	set(layer[themeunanimebtn_in].visible, true);
+	set(layer[themeunanimebtn_out].visible, true);
+	set(layer[themeunanimebtn_right_bg].visible, true);
+	set(layer[themeunanimebtn_left_bg].visible, true);
+	set(layer[themeunanimebtn_right].visible, true);
+	set(layer[themeunanimebtn_left].visible, true);
+	set(layer[themeunanimebtn_down_bg].visible, true);
+	set(layer[themeunanimebtn_up_bg].visible, true);
+	set(layer[themeunanimebtn_down].visible, true);
+	set(layer[themeunanimebtn_up].visible, true);
+	if (scene.count GT 1,
+	set(layer[themeunanimebtn_prev_pano_bg].visible, true);
+	set(layer[themeunanimebtn_next_pano_bg].visible, true);
+	set(layer[themeunanimebtn_prev_pano].visible, true);
+	set(layer[themeunanimebtn_next_pano].visible, true);
+	);
+
+
+	
+	
+		themeunanimeUpdateThumbnailsSize();
+</action>
+
+
+
+    <layer name="themeunanimehelpScreenBg" align="center" keep="true" onclick="themeunanimecloseHelp();"
+           url="%FIRSTXML%/graphics/dockedthumbscontrolbar/help_screen_bg.png"
+           visible="false"
+           zorder="97"
+           displayed="false"
+           >
+      <layer name="themeunanimehelpScreen" align="center" keep="true" onclick="themeunanimecloseHelp();" 
+             url="%FIRSTXML%/graphics/dockedthumbscontrolbar/help_screen_fg.png"
+             height="100%" 
+             width="prop" 
+             />
+
+    </layer>
+    <action name="themeunanimedisplayHelp">
+      if (device.desktop,
+        set(layer[themeunanimehelpScreenBg].displayed, true);
+        set(layer[themeunanimehelpScreenBg].visible,true);
+        themeunanimeupdateHelpButtons();
+      );
+    </action>
+    <action name="themeunanimecloseHelp">
+      if (device.desktop,
+        set(layer[themeunanimehelpScreenBg].displayed, false);
+        set(layer[themeunanimehelpScreenBg].visible,false);
+        themeunanimeupdateHelpButtons();
+      );
+    </action>
+	<action name="themeunanimeHideHelpButtons">
+		set(layer[themeunanimebtn_display_help].visible, false);
+		set(layer[themeunanimebtn_close_help].visible, false);
+		set(layer[themeunanimebtn_display_help_bg].visible, false);
+		set(layer[themeunanimebtn_close_help_bg].visible, false);
+	</action>
+	<action name="themeunanimeShowHelpButtons">
+		if (layer[themeunanimehelpScreenBg].displayed,
+			set(layer[themeunanimebtn_close_help].visible, true);
+			set(layer[themeunanimebtn_display_help].visible, false);
+			set(layer[themeunanimebtn_close_help_bg].visible, true);
+			set(layer[themeunanimebtn_display_help_bg].visible, false);
+		,
+			set(layer[themeunanimebtn_display_help].visible, true);
+			set(layer[themeunanimebtn_close_help].visible, false);
+			set(layer[themeunanimebtn_display_help_bg].visible, true);
+			set(layer[themeunanimebtn_close_help_bg].visible, false);
+		);
+	</action>
+	<action name="themeunanimeupdateHelpButtons">
+	if (device.desktop,
+		set(themeunanimeDisplayHelpButtons, false);
+		if (themeunanimeIsOpened, set(themeunanimeDisplayHelpButtons, true););
+		if (themeunanimeDisplayHelpButtons,
+			themeunanimeShowHelpButtons();
+		,
+			themeunanimeHideHelpButtons();
+		);
+	,
+		themeunanimeHideHelpButtons();
+	);
+	</action>
+    
+
+
+	<events name="themeunanimemenufullscreenchangeevent"
+		onenterfullscreen="themeunanimeupdateFullscreenButtons();"
+		onexitfullscreen="themeunanimeupdateFullscreenButtons();"
+		keep="true"/>
+	<action name="themeunanimeHideFullscreenButtons">
+		set(layer[themeunanimebtn_openfs].visible , false);
+		set(layer[themeunanimebtn_closefs].visible, false);
+		set(layer[themeunanimebtn_openfs_bg].visible, false);
+		set(layer[themeunanimebtn_closefs_bg].visible, false);
+	</action>
+	<action name="themeunanimeShowFullscreenButtons">
+		if (device.fullscreensupport,
+			if(tour_fullscreen,
+				set(layer[themeunanimebtn_openfs].visible , false);
+				set(layer[themeunanimebtn_closefs].visible, true);
+				set(layer[themeunanimebtn_openfs_bg].visible, false);
+				set(layer[themeunanimebtn_closefs_bg].visible, true);
+			,
+				set(layer[themeunanimebtn_openfs].visible ,true);
+				set(layer[themeunanimebtn_closefs].visible,false);
+				set(layer[themeunanimebtn_openfs_bg].visible, true);
+				set(layer[themeunanimebtn_closefs_bg].visible, false);
+			);
+		,
+			themeunanimeHideFullscreenButtons();
+		);
+	</action>
+	<action name="themeunanimeupdateFullscreenButtons">
+		set(themeunanimeDisplayFullscreenButtons, false);
+		if (themeunanimeIsOpened, set(themeunanimeDisplayFullscreenButtons, true););
+		if (themeunanimeDisplayFullscreenButtons,
+			themeunanimeShowFullscreenButtons();
+		,
+			themeunanimeHideFullscreenButtons();
+		);
+	</action>
+
+	<events name="themeunanimeAutorotationEvents"
+		onstartautorotation="themeunanimeupdateAutorotationButtons();"
+		onresumeautorotation="themeunanimeupdateAutorotationButtons();"
+		onstopautorotation="themeunanimeupdateAutorotationButtons();"
+		onpauseautorotation="themeunanimeupdateAutorotationButtons();"
+		keep="true"/>
+	<action name="themeunanimeHideAutorotationButtons">
+		set(layer[themeunanimebtn_autorotate_off].visible, false);
+		set(layer[themeunanimebtn_autorotate_on].visible , false);
+		set(layer[themeunanimebtn_autorotate_off_bg].visible, false);
+		set(layer[themeunanimebtn_autorotate_on_bg].visible , false);
+	</action>
+	<action name="themeunanimeShowAutorotationButtons">
+		if(tour_autorotateenabled==false,
+			set(layer[themeunanimebtn_autorotate_off].visible, false);
+			set(layer[themeunanimebtn_autorotate_on].visible , true);
+			set(layer[themeunanimebtn_autorotate_off_bg].visible, false);
+			set(layer[themeunanimebtn_autorotate_on_bg].visible , true);
+		,
+			set(layer[themeunanimebtn_autorotate_off].visible, true);
+			set(layer[themeunanimebtn_autorotate_on].visible , false);
+			set(layer[themeunanimebtn_autorotate_off_bg].visible, true);
+			set(layer[themeunanimebtn_autorotate_on_bg].visible , false);
+		);
+	</action>
+	<action name="themeunanimeupdateAutorotationButtons">
+		set(themeunanimeDisplayAutorotationButtons, false);
+		if (themeunanimeIsOpened, set(themeunanimeDisplayAutorotationButtons, true););
+		if (themeunanimeDisplayAutorotationButtons,
+			themeunanimeShowAutorotationButtons();
+		,
+			themeunanimeHideAutorotationButtons();
+		);
+	</action>
+
+
+
+  <textstyle name="themeunanimemenuTooltipStyle"
+             font="Times New Roman"
+             fontsize="14"
+             bold="true"
+             italic="false"
+             textcolor="0xf29320"
+             background="true"
+             backgroundcolor="0x92d26a"
+             effect="glow(0x92d26a,1,10,60);"
+             alpha="0.8"
+             border="false"
+             blendmode="layer"
+             edge="bottom"
+             textalign="topleft"
+             xoffset="0"
+             yoffset="-40"
+             devices="flash"
+             noclip="true"/>
+	<layer name="themeunanimemenuTooltipStyle"
+		keep="true"
+		enabled="false"
+		capture="false"
+		url="%FIRSTXML%/graphics/textfield.swf"
+		align="center"
+		background="true"
+				backgroundcolor="0x92d26a"
+				alpha="0.8"
+		border="false"
+		bordercolor="0xffffff"
+		css="color:#f29320;font-family:Times New Roman;font-weight:bold;font-size:14px;text-align:center;"
+		width="200"
+		height="20"
+		autoheight="true"
+		edge="bottom"
+		selectable="false"
+		zorder="0"
+		html=""
+		visible="false"
+		devices="html5"
+		/>
+
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery')" type="string" />
+		<option name="zorder" value="1" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery/photo_5449453204245970008_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery">
+	set(ptplugin[gallery].jsready, true);
+</action>
+
+<action name="showGallery-gallery">
+	ifnot(ptplugin[gallery].isOpen,
+		set(ptplugin[gallery].isOpen, true);
+		set(ptplugin[gallery].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery">
+	js(invokePluginFunction(gallery, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery">
+	js(invokePluginFunction(gallery, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery">
+	resumeautorotation();
+	set(ptplugin[gallery].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery1" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery1')" type="string" />
+		<option name="zorder" value="2" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery1/photo_5449453204245970009_y.jpg"/>
+		<item name="item_2" title="" caption="" value="indexdata/graphics/gallery1/photo_5449453204245970010_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery1">
+	set(ptplugin[gallery1].jsready, true);
+</action>
+
+<action name="showGallery-gallery1">
+	ifnot(ptplugin[gallery1].isOpen,
+		set(ptplugin[gallery1].isOpen, true);
+		set(ptplugin[gallery1].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery1, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery1">
+	js(invokePluginFunction(gallery1, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery1">
+	js(invokePluginFunction(gallery1, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery1">
+	resumeautorotation();
+	set(ptplugin[gallery1].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery1" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery2" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery2')" type="string" />
+		<option name="zorder" value="3" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery2/photo_5449453204245969958_y.jpg"/>
+		<item name="item_2" title="" caption="" value="indexdata/graphics/gallery2/photo_5449453204245969955_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery2">
+	set(ptplugin[gallery2].jsready, true);
+</action>
+
+<action name="showGallery-gallery2">
+	ifnot(ptplugin[gallery2].isOpen,
+		set(ptplugin[gallery2].isOpen, true);
+		set(ptplugin[gallery2].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery2, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery2">
+	js(invokePluginFunction(gallery2, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery2">
+	js(invokePluginFunction(gallery2, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery2">
+	resumeautorotation();
+	set(ptplugin[gallery2].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery2" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery3" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery3')" type="string" />
+		<option name="zorder" value="4" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery3/photo_5449453204245970005_y.jpg"/>
+		<item name="item_2" title="" caption="" value="indexdata/graphics/gallery3/photo_5449453204245970006_y.jpg"/>
+		<item name="item_3" title="" caption="" value="indexdata/graphics/gallery3/photo_5449453204245970007_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery3">
+	set(ptplugin[gallery3].jsready, true);
+</action>
+
+<action name="showGallery-gallery3">
+	ifnot(ptplugin[gallery3].isOpen,
+		set(ptplugin[gallery3].isOpen, true);
+		set(ptplugin[gallery3].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery3, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery3">
+	js(invokePluginFunction(gallery3, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery3">
+	js(invokePluginFunction(gallery3, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery3">
+	resumeautorotation();
+	set(ptplugin[gallery3].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery3" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery4" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery4')" type="string" />
+		<option name="zorder" value="5" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery4/photo_5449453204245970009_y.jpg"/>
+		<item name="item_2" title="" caption="" value="indexdata/graphics/gallery4/photo_5449453204245970010_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery4">
+	set(ptplugin[gallery4].jsready, true);
+</action>
+
+<action name="showGallery-gallery4">
+	ifnot(ptplugin[gallery4].isOpen,
+		set(ptplugin[gallery4].isOpen, true);
+		set(ptplugin[gallery4].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery4, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery4">
+	js(invokePluginFunction(gallery4, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery4">
+	js(invokePluginFunction(gallery4, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery4">
+	resumeautorotation();
+	set(ptplugin[gallery4].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery4" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery5" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery5')" type="string" />
+		<option name="zorder" value="6" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery5/photo_5449453204245970000_y.jpg"/>
+		<item name="item_2" title="" caption="" value="indexdata/graphics/gallery5/photo_5449453204245969998_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery5">
+	set(ptplugin[gallery5].jsready, true);
+</action>
+
+<action name="showGallery-gallery5">
+	ifnot(ptplugin[gallery5].isOpen,
+		set(ptplugin[gallery5].isOpen, true);
+		set(ptplugin[gallery5].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery5, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery5">
+	js(invokePluginFunction(gallery5, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery5">
+	js(invokePluginFunction(gallery5, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery5">
+	resumeautorotation();
+	set(ptplugin[gallery5].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery5" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery6" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="1" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="000000" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery6')" type="string" />
+		<option name="zorder" value="7" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery6/photo_5449453204245969999_y.jpg"/>
+		<item name="item_2" title="" caption="" value="indexdata/graphics/gallery6/photo_5449453204245969995_y.jpg"/>
+		<item name="item_3" title="" caption="" value="indexdata/graphics/gallery6/photo_5449453204245969996_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery6">
+	set(ptplugin[gallery6].jsready, true);
+</action>
+
+<action name="showGallery-gallery6">
+	ifnot(ptplugin[gallery6].isOpen,
+		set(ptplugin[gallery6].isOpen, true);
+		set(ptplugin[gallery6].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery6, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery6">
+	js(invokePluginFunction(gallery6, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery6">
+	js(invokePluginFunction(gallery6, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery6">
+	resumeautorotation();
+	set(ptplugin[gallery6].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery6" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery7" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery7')" type="string" />
+		<option name="zorder" value="8" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery7/photo_5449453204245969994_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery7">
+	set(ptplugin[gallery7].jsready, true);
+</action>
+
+<action name="showGallery-gallery7">
+	ifnot(ptplugin[gallery7].isOpen,
+		set(ptplugin[gallery7].isOpen, true);
+		set(ptplugin[gallery7].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery7, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery7">
+	js(invokePluginFunction(gallery7, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery7">
+	js(invokePluginFunction(gallery7, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery7">
+	resumeautorotation();
+	set(ptplugin[gallery7].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery7" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery8" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery8')" type="string" />
+		<option name="zorder" value="9" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery8/photo_5449453204245969984_y.jpg"/>
+		<item name="item_2" title="" caption="" value="indexdata/graphics/gallery8/photo_5449453204245969985_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery8">
+	set(ptplugin[gallery8].jsready, true);
+</action>
+
+<action name="showGallery-gallery8">
+	ifnot(ptplugin[gallery8].isOpen,
+		set(ptplugin[gallery8].isOpen, true);
+		set(ptplugin[gallery8].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery8, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery8">
+	js(invokePluginFunction(gallery8, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery8">
+	js(invokePluginFunction(gallery8, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery8">
+	resumeautorotation();
+	set(ptplugin[gallery8].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery8" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery9" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery9')" type="string" />
+		<option name="zorder" value="10" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery9/photo_5449453204245969982_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery9">
+	set(ptplugin[gallery9].jsready, true);
+</action>
+
+<action name="showGallery-gallery9">
+	ifnot(ptplugin[gallery9].isOpen,
+		set(ptplugin[gallery9].isOpen, true);
+		set(ptplugin[gallery9].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery9, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery9">
+	js(invokePluginFunction(gallery9, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery9">
+	js(invokePluginFunction(gallery9, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery9">
+	resumeautorotation();
+	set(ptplugin[gallery9].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery9" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery10" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery10')" type="string" />
+		<option name="zorder" value="11" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery10/photo_5449453204245969981_y.jpg"/>
+		<item name="item_2" title="" caption="" value="indexdata/graphics/gallery10/photo_5449453204245969980_y.jpg"/>
+		<item name="item_3" title="" caption="" value="indexdata/graphics/gallery10/photo_5449453204245969979_y.jpg"/>
+		<item name="item_4" title="" caption="" value="indexdata/graphics/gallery10/photo_5449453204245969978_y.jpg"/>
+		<item name="item_5" title="" caption="" value="indexdata/graphics/gallery10/photo_5449453204245969977_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery10">
+	set(ptplugin[gallery10].jsready, true);
+</action>
+
+<action name="showGallery-gallery10">
+	ifnot(ptplugin[gallery10].isOpen,
+		set(ptplugin[gallery10].isOpen, true);
+		set(ptplugin[gallery10].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery10, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery10">
+	js(invokePluginFunction(gallery10, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery10">
+	js(invokePluginFunction(gallery10, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery10">
+	resumeautorotation();
+	set(ptplugin[gallery10].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery10" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery11" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery11')" type="string" />
+		<option name="zorder" value="12" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery11/photo_5449453204245969973_y.jpg"/>
+		<item name="item_2" title="" caption="" value="indexdata/graphics/gallery11/photo_5449453204245969975_y.jpg"/>
+		<item name="item_3" title="" caption="" value="indexdata/graphics/gallery11/photo_5449453204245969976_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery11">
+	set(ptplugin[gallery11].jsready, true);
+</action>
+
+<action name="showGallery-gallery11">
+	ifnot(ptplugin[gallery11].isOpen,
+		set(ptplugin[gallery11].isOpen, true);
+		set(ptplugin[gallery11].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery11, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery11">
+	js(invokePluginFunction(gallery11, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery11">
+	js(invokePluginFunction(gallery11, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery11">
+	resumeautorotation();
+	set(ptplugin[gallery11].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery11" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery12" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery12')" type="string" />
+		<option name="zorder" value="13" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery12/photo_5449453204245969974_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery12">
+	set(ptplugin[gallery12].jsready, true);
+</action>
+
+<action name="showGallery-gallery12">
+	ifnot(ptplugin[gallery12].isOpen,
+		set(ptplugin[gallery12].isOpen, true);
+		set(ptplugin[gallery12].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery12, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery12">
+	js(invokePluginFunction(gallery12, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery12">
+	js(invokePluginFunction(gallery12, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery12">
+	resumeautorotation();
+	set(ptplugin[gallery12].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery12" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery13" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery13')" type="string" />
+		<option name="zorder" value="14" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery13/photo_5449453204245969941_y.jpg"/>
+		<item name="item_2" title="" caption="" value="indexdata/graphics/gallery13/photo_5449453204245969940_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery13">
+	set(ptplugin[gallery13].jsready, true);
+</action>
+
+<action name="showGallery-gallery13">
+	ifnot(ptplugin[gallery13].isOpen,
+		set(ptplugin[gallery13].isOpen, true);
+		set(ptplugin[gallery13].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery13, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery13">
+	js(invokePluginFunction(gallery13, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery13">
+	js(invokePluginFunction(gallery13, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery13">
+	resumeautorotation();
+	set(ptplugin[gallery13].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery13" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery14" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery14')" type="string" />
+		<option name="zorder" value="15" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery14/photo_5449453204245969939_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery14">
+	set(ptplugin[gallery14].jsready, true);
+</action>
+
+<action name="showGallery-gallery14">
+	ifnot(ptplugin[gallery14].isOpen,
+		set(ptplugin[gallery14].isOpen, true);
+		set(ptplugin[gallery14].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery14, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery14">
+	js(invokePluginFunction(gallery14, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery14">
+	js(invokePluginFunction(gallery14, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery14">
+	resumeautorotation();
+	set(ptplugin[gallery14].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery14" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery15" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery15')" type="string" />
+		<option name="zorder" value="16" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery15/photo_5449453204245969965_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery15">
+	set(ptplugin[gallery15].jsready, true);
+</action>
+
+<action name="showGallery-gallery15">
+	ifnot(ptplugin[gallery15].isOpen,
+		set(ptplugin[gallery15].isOpen, true);
+		set(ptplugin[gallery15].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery15, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery15">
+	js(invokePluginFunction(gallery15, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery15">
+	js(invokePluginFunction(gallery15, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery15">
+	resumeautorotation();
+	set(ptplugin[gallery15].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery15" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery16" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery16')" type="string" />
+		<option name="zorder" value="17" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery16/photo_5449453204245969969_y.jpg"/>
+		<item name="item_2" title="" caption="" value="indexdata/graphics/gallery16/photo_5449453204245969966_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery16">
+	set(ptplugin[gallery16].jsready, true);
+</action>
+
+<action name="showGallery-gallery16">
+	ifnot(ptplugin[gallery16].isOpen,
+		set(ptplugin[gallery16].isOpen, true);
+		set(ptplugin[gallery16].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery16, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery16">
+	js(invokePluginFunction(gallery16, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery16">
+	js(invokePluginFunction(gallery16, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery16">
+	resumeautorotation();
+	set(ptplugin[gallery16].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery16" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery17" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery17')" type="string" />
+		<option name="zorder" value="18" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery17/photo_5449453204245969970_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery17">
+	set(ptplugin[gallery17].jsready, true);
+</action>
+
+<action name="showGallery-gallery17">
+	ifnot(ptplugin[gallery17].isOpen,
+		set(ptplugin[gallery17].isOpen, true);
+		set(ptplugin[gallery17].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery17, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery17">
+	js(invokePluginFunction(gallery17, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery17">
+	js(invokePluginFunction(gallery17, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery17">
+	resumeautorotation();
+	set(ptplugin[gallery17].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery17" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery18" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery18')" type="string" />
+		<option name="zorder" value="19" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery18/photo_5449453204245969972_y.jpg"/>
+		<item name="item_2" title="" caption="" value="indexdata/graphics/gallery18/photo_5449453204245969971_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery18">
+	set(ptplugin[gallery18].jsready, true);
+</action>
+
+<action name="showGallery-gallery18">
+	ifnot(ptplugin[gallery18].isOpen,
+		set(ptplugin[gallery18].isOpen, true);
+		set(ptplugin[gallery18].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery18, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery18">
+	js(invokePluginFunction(gallery18, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery18">
+	js(invokePluginFunction(gallery18, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery18">
+	resumeautorotation();
+	set(ptplugin[gallery18].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery18" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery19" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery19')" type="string" />
+		<option name="zorder" value="20" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery19/photo_5449453204245969968_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery19">
+	set(ptplugin[gallery19].jsready, true);
+</action>
+
+<action name="showGallery-gallery19">
+	ifnot(ptplugin[gallery19].isOpen,
+		set(ptplugin[gallery19].isOpen, true);
+		set(ptplugin[gallery19].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery19, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery19">
+	js(invokePluginFunction(gallery19, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery19">
+	js(invokePluginFunction(gallery19, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery19">
+	resumeautorotation();
+	set(ptplugin[gallery19].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery19" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery20" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery20')" type="string" />
+		<option name="zorder" value="21" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery20/photo_5449453204245969986_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery20">
+	set(ptplugin[gallery20].jsready, true);
+</action>
+
+<action name="showGallery-gallery20">
+	ifnot(ptplugin[gallery20].isOpen,
+		set(ptplugin[gallery20].isOpen, true);
+		set(ptplugin[gallery20].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery20, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery20">
+	js(invokePluginFunction(gallery20, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery20">
+	js(invokePluginFunction(gallery20, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery20">
+	resumeautorotation();
+	set(ptplugin[gallery20].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery20" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery21" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery21')" type="string" />
+		<option name="zorder" value="22" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery21/photo_5449453204245969990_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery21">
+	set(ptplugin[gallery21].jsready, true);
+</action>
+
+<action name="showGallery-gallery21">
+	ifnot(ptplugin[gallery21].isOpen,
+		set(ptplugin[gallery21].isOpen, true);
+		set(ptplugin[gallery21].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery21, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery21">
+	js(invokePluginFunction(gallery21, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery21">
+	js(invokePluginFunction(gallery21, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery21">
+	resumeautorotation();
+	set(ptplugin[gallery21].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery21" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery22" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery22')" type="string" />
+		<option name="zorder" value="23" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery22/photo_5449453204245969988_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery22">
+	set(ptplugin[gallery22].jsready, true);
+</action>
+
+<action name="showGallery-gallery22">
+	ifnot(ptplugin[gallery22].isOpen,
+		set(ptplugin[gallery22].isOpen, true);
+		set(ptplugin[gallery22].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery22, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery22">
+	js(invokePluginFunction(gallery22, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery22">
+	js(invokePluginFunction(gallery22, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery22">
+	resumeautorotation();
+	set(ptplugin[gallery22].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery22" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery23" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="000000" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery23')" type="string" />
+		<option name="zorder" value="24" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery23/photo_5449453204245970004_y.jpg"/>
+		<item name="item_2" title="" caption="" value="indexdata/graphics/gallery23/photo_5449453204245970003_y.jpg"/>
+		<item name="item_3" title="" caption="" value="indexdata/graphics/gallery23/photo_5449453204245970002_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery23">
+	set(ptplugin[gallery23].jsready, true);
+</action>
+
+<action name="showGallery-gallery23">
+	ifnot(ptplugin[gallery23].isOpen,
+		set(ptplugin[gallery23].isOpen, true);
+		set(ptplugin[gallery23].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery23, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery23">
+	js(invokePluginFunction(gallery23, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery23">
+	js(invokePluginFunction(gallery23, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery23">
+	resumeautorotation();
+	set(ptplugin[gallery23].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery23" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery24" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="1" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery24')" type="string" />
+		<option name="zorder" value="25" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery24/photo_5449453204245969990_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery24">
+	set(ptplugin[gallery24].jsready, true);
+</action>
+
+<action name="showGallery-gallery24">
+	ifnot(ptplugin[gallery24].isOpen,
+		set(ptplugin[gallery24].isOpen, true);
+		set(ptplugin[gallery24].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery24, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery24">
+	js(invokePluginFunction(gallery24, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery24">
+	js(invokePluginFunction(gallery24, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery24">
+	resumeautorotation();
+	set(ptplugin[gallery24].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery24" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery25" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery25')" type="string" />
+		<option name="zorder" value="26" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery25/photo_5449453204245969968_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery25">
+	set(ptplugin[gallery25].jsready, true);
+</action>
+
+<action name="showGallery-gallery25">
+	ifnot(ptplugin[gallery25].isOpen,
+		set(ptplugin[gallery25].isOpen, true);
+		set(ptplugin[gallery25].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery25, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery25">
+	js(invokePluginFunction(gallery25, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery25">
+	js(invokePluginFunction(gallery25, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery25">
+	resumeautorotation();
+	set(ptplugin[gallery25].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery25" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery26" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="0.500007629510948" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery26')" type="string" />
+		<option name="zorder" value="27" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery26/photo_5449453204245969989_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery26">
+	set(ptplugin[gallery26].jsready, true);
+</action>
+
+<action name="showGallery-gallery26">
+	ifnot(ptplugin[gallery26].isOpen,
+		set(ptplugin[gallery26].isOpen, true);
+		set(ptplugin[gallery26].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery26, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery26">
+	js(invokePluginFunction(gallery26, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery26">
+	js(invokePluginFunction(gallery26, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery26">
+	resumeautorotation();
+	set(ptplugin[gallery26].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery26" 
+	keep="true"
+/>
+
+<!-- ******* -->
+<!-- Gallery -->
+<!-- ******* -->
+
+<ptplugin name="gallery27" engine="kolorBox">
+	<settings>
+		<option name="position" value="center" type="string" />
+		<option name="margin_x" value="0" type="int" />
+		<option name="margin_y" value="0" type="int" />
+		<option name="draggable_box" value="false" type="bool" />
+		<option name="slideshow_autoplay" value="false" type="bool" />
+		<option name="slideshow" value="5000" type="int" />
+		<option name="container_auto_size" value="true" type="bool" />
+		<option name="container_width" value="100" type="int" />
+		<option name="container_width_unit" value="percent" type="string" />
+		<option name="container_height" value="100" type="int" />
+		<option name="container_height_unit" value="percent" type="string" />
+		<option name="container_color" value="ffffff" type="string" />
+		<option name="container_alpha" value="0.8" type="float" />
+		<option name="container_topleft_border_radius" value="15" type="int" />
+		<option name="container_topright_border_radius" value="15" type="int" />
+		<option name="container_bottomleft_border_radius" value="15" type="int" />
+		<option name="container_bottomright_border_radius" value="15" type="int" />
+		<option name="container_border_width" value="0" type="int" />
+		<option name="container_border_color" value="ffffff" type="string" />
+		<option name="overlay_displayed" value="true" type="bool" />
+		<option name="overlay_color" value="000000" type="string" />
+		<option name="overlay_alpha" value="1" type="float" />
+		<option name="item_border_width" value="0" type="int" />
+		<option name="item_border_color" value="ffffff" type="string" />
+		<option name="title_displayed" value="false" type="bool" />
+		<option name="caption_displayed" value="false" type="bool" />
+		<option name="play_displayed" value="true" type="bool" />
+		<option name="play_position" value="bottomleft" type="string" /> 
+		<option name="navigation_displayed" value="true" type="bool" />
+		<option name="navigation_position" value="bottom" type="string" /> 
+		<option name="fullscreen_displayed" value="true" type="bool" />
+		<option name="fullscreen_position" value="topleft" type="string" /> 
+		<option name="close_displayed" value="true" type="bool" />
+		<option name="close_position" value="topright" type="string" /> 
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery27')" type="string" />
+		<option name="zorder" value="28" type="int" />
+	</settings>
+	<internaldata>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery27/photo_5449453204245969986_y.jpg"/>
+	</internaldata>
+</ptplugin>
+
+<action name="kolorBoxJsReady-gallery27">
+	set(ptplugin[gallery27].jsready, true);
+</action>
+
+<action name="showGallery-gallery27">
+	ifnot(ptplugin[gallery27].isOpen,
+		set(ptplugin[gallery27].isOpen, true);
+		set(ptplugin[gallery27].doNotDeleteMe, false);
+		pauseautorotation();
+		js(invokePluginFunction(gallery27, openKolorBox, %1));
+		events.dispatch(onremovedisplayedobject);
+	);
+</action>
+
+<action name="toggleGallery-gallery27">
+	js(invokePluginFunction(gallery27, toggleKolorBox, %1));
+</action>
+
+
+<action name="closeKolorBox-gallery27">
+	js(invokePluginFunction(gallery27, closeKolorBox));
+</action>
+
+<action name="closeKolorBoxCallback-gallery27">
+	resumeautorotation();
+	set(ptplugin[gallery27].isOpen, false);
+</action>
+
+<events name="kolorBoxEvents-gallery27" 
+	keep="true"
+/>
+
+  <!-- Hide / Show Controls -->
+  <action name="hideTourControls">set(tour_displaycontrols, false);events.dispatch(hidetourcontrols);</action>
+  <action name="showTourControls">set(tour_displaycontrols, true); events.dispatch(showtourcontrols);</action>
+  <!-- Fullscreen Management -->
+  <action name="exitFullScreen" devices="fullscreensupport">set(tour_fullscreen,false);js(setFullscreen(false));</action>
+  <action name="enterFullScreen" devices="fullscreensupport">set(tour_fullscreen,true);js(setFullscreen(true));</action>
+  <action name="switchFullScreen">if(tour_fullscreen,exitFullScreen();,enterFullScreen(););</action>
+
+  
+  <events name="krpanoExitFullscreenEvent"
+    onexitfullscreen="if(tour_fullscreen,exitFullScreenChangeEvent(););"
+    keep="true" />
+
+  <action name="exitFullScreenChangeEvent" devices="fullscreensupport">set(tour_fullscreen,false);events.dispatch(onexitfullscreen);</action>
+  <action name="enterFullScreenChangeEvent" devices="fullscreensupport">set(tour_fullscreen,true);events.dispatch(onenterfullscreen);</action>
+  <action name="exitFullScreenFallback">set(fullscreen,false);</action>
+  <action name="enterFullScreenFallback">set(fullscreen,true);</action>
+  
+  <action name="resizeFullScreenEvent">delayedcall(0,updatescreen(););</action>
+</krpano>
