@@ -102,26 +102,6 @@
   </action>
 
     
-  <!-- Spot Style - Default Point Spot Style 8 -->
-  <style name="IconDefaultPointSpotStyle8"
-         url="%FIRSTXML%/spots/pngwing_user_defaultpoint7.png"
-         visible="false"
-         onhover="onhoverIconDefaultPointSpotStyle8"
-         onout="onoutIconDefaultPointSpotStyle8"
-         height="100"
-         width="95"
-         />
-  <action name="onhoverIconDefaultPointSpotStyle8">
-    showtooltip(hotspot);
-  </action>
-  <action name="onoutIconDefaultPointSpotStyle8">
-    hideTooltip();
-
-
-
-  </action>
-
-    
   <!-- Spot Style - биба и боба -->
   <style name="Iconбибаибоба"
          url="%FIRSTXML%/spots/pngwing_user_defaultpoint8.png"
@@ -435,66 +415,6 @@
     showtooltip(hotspot);
   </action>
   <action name="onoutIconхоккей">
-    hideTooltip();
-
-
-
-  </action>
-
-    
-  <!-- Spot Style - рисувашки -->
-  <style name="Iconрисувашки"
-         url="%FIRSTXML%/spots/pngwing_user_defaultpoint24.png"
-         visible="false"
-         onhover="onhoverIconрисувашки"
-         onout="onoutIconрисувашки"
-         height="95"
-         width="100"
-         />
-  <action name="onhoverIconрисувашки">
-    showtooltip(hotspot);
-  </action>
-  <action name="onoutIconрисувашки">
-    hideTooltip();
-
-
-
-  </action>
-
-    
-  <!-- Spot Style - качеля -->
-  <style name="Iconкачеля"
-         url="%FIRSTXML%/spots/pngwing_user_defaultpoint25.png"
-         visible="false"
-         onhover="onhoverIconкачеля"
-         onout="onoutIconкачеля"
-         height="100"
-         width="93"
-         />
-  <action name="onhoverIconкачеля">
-    showtooltip(hotspot);
-  </action>
-  <action name="onoutIconкачеля">
-    hideTooltip();
-
-
-
-  </action>
-
-    
-  <!-- Spot Style - горка -->
-  <style name="Iconгорка"
-         url="%FIRSTXML%/spots/pngwing_user_defaultpoint26.png"
-         visible="false"
-         onhover="onhoverIconгорка"
-         onout="onoutIconгорка"
-         height="100"
-         width="90"
-         />
-  <action name="onhoverIconгорка">
-    showtooltip(hotspot);
-  </action>
-  <action name="onoutIconгорка">
     hideTooltip();
 
 
@@ -4458,7 +4378,7 @@
 <!-- Gallery -->
 <!-- ******* -->
 
-<ptplugin name="gallery27" engine="kolorBox">
+<ptplugin name="gallery3" engine="kolorBox">
 	<settings>
 		<option name="position" value="center" type="string" />
 		<option name="margin_x" value="0" type="int" />
@@ -4494,43 +4414,43 @@
 		<option name="fullscreen_position" value="topleft" type="string" /> 
 		<option name="close_displayed" value="true" type="bool" />
 		<option name="close_position" value="topright" type="string" /> 
-		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery27')" type="string" />
+		<option name="close_callback" value="invokeKrFunction('closeKolorBoxCallback-gallery3')" type="string" />
 		<option name="zorder" value="28" type="int" />
 	</settings>
 	<internaldata>
-		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery27/photo_5449453204245969986_y.jpg"/>
+		<item name="item_1" title="" caption="" value="indexdata/graphics/gallery3/photo_5449453204245969986_y.jpg"/>
 	</internaldata>
 </ptplugin>
 
-<action name="kolorBoxJsReady-gallery27">
-	set(ptplugin[gallery27].jsready, true);
+<action name="kolorBoxJsReady-gallery3">
+	set(ptplugin[gallery3].jsready, true);
 </action>
 
-<action name="showGallery-gallery27">
-	ifnot(ptplugin[gallery27].isOpen,
-		set(ptplugin[gallery27].isOpen, true);
-		set(ptplugin[gallery27].doNotDeleteMe, false);
+<action name="showGallery-gallery3">
+	ifnot(ptplugin[gallery3].isOpen,
+		set(ptplugin[gallery3].isOpen, true);
+		set(ptplugin[gallery3].doNotDeleteMe, false);
 		pauseautorotation();
-		js(invokePluginFunction(gallery27, openKolorBox, %1));
+		js(invokePluginFunction(gallery3, openKolorBox, %1));
 		events.dispatch(onremovedisplayedobject);
 	);
 </action>
 
-<action name="toggleGallery-gallery27">
-	js(invokePluginFunction(gallery27, toggleKolorBox, %1));
+<action name="toggleGallery-gallery3">
+	js(invokePluginFunction(gallery3, toggleKolorBox, %1));
 </action>
 
 
-<action name="closeKolorBox-gallery27">
-	js(invokePluginFunction(gallery27, closeKolorBox));
+<action name="closeKolorBox-gallery3">
+	js(invokePluginFunction(gallery3, closeKolorBox));
 </action>
 
-<action name="closeKolorBoxCallback-gallery27">
+<action name="closeKolorBoxCallback-gallery3">
 	resumeautorotation();
-	set(ptplugin[gallery27].isOpen, false);
+	set(ptplugin[gallery3].isOpen, false);
 </action>
 
-<events name="kolorBoxEvents-gallery27" 
+<events name="kolorBoxEvents-gallery3" 
 	keep="true"
 />
 

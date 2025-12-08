@@ -216,7 +216,7 @@ function eventKrpanoLoaded () {
 	krpanoLoaded = true;
 	
 	
-	addKolorBox('gallery27');addKolorBox('gallery26');addKolorBox('gallery25');addKolorBox('gallery24');addKolorBox('gallery23');addKolorBox('gallery22');addKolorBox('gallery21');addKolorBox('gallery20');addKolorBox('gallery19');addKolorBox('gallery18');addKolorBox('gallery17');addKolorBox('gallery16');addKolorBox('gallery15');addKolorBox('gallery14');addKolorBox('gallery13');addKolorBox('gallery12');addKolorBox('gallery11');addKolorBox('gallery10');addKolorBox('gallery9');addKolorBox('gallery8');addKolorBox('gallery7');addKolorBox('gallery6');addKolorBox('gallery5');addKolorBox('gallery4');addKolorBox('gallery3');addKolorBox('gallery2');addKolorBox('gallery1');addKolorBox('gallery');
+	addKolorBox('gallery3');addKolorBox('gallery26');addKolorBox('gallery25');addKolorBox('gallery24');addKolorBox('gallery23');addKolorBox('gallery22');addKolorBox('gallery21');addKolorBox('gallery20');addKolorBox('gallery19');addKolorBox('gallery18');addKolorBox('gallery17');addKolorBox('gallery16');addKolorBox('gallery15');addKolorBox('gallery14');addKolorBox('gallery13');addKolorBox('gallery12');addKolorBox('gallery11');addKolorBox('gallery10');addKolorBox('gallery9');addKolorBox('gallery8');addKolorBox('gallery7');addKolorBox('gallery6');addKolorBox('gallery5');addKolorBox('gallery4');addKolorBox('gallery3');addKolorBox('gallery2');addKolorBox('gallery1');addKolorBox('gallery');
 }
 
 /**
